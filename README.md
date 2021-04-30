@@ -39,6 +39,6 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 ## License
 
-![]()
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-This work is licensed under a [X Linense](LICENSE).
+This work is licensed under a [CC0 1.0 Universal](LICENSE).
