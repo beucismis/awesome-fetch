@@ -14,6 +14,6 @@ Your contributions are always welcome!
 - Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
 - Check your spelling and grammar.
   - Contents should be listed according to the English Alphabet.
-* Remove any trailing whitespace.
+- Remove any trailing whitespace.
 
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
