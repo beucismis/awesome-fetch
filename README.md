@@ -5,6 +5,7 @@ Awesome system information packages and tools.
 ## Contents
 
 - [C](#c)
+- [Perl](#perl)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -13,6 +14,10 @@ Awesome system information packages and tools.
 
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+
+## Perl
+
+- [fetch-master-6000](https://github.com/ahnsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl.
 
 ## Python
 
