@@ -17,7 +17,7 @@ Awesome system information packages and tools.
 
 ## Perl
 
-- [fetch-master-6000](https://github.com/ahnsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl.
+- [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl.
 
 ## Python
 
