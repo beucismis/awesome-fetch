@@ -1,6 +1,6 @@
 # Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://github.com/beucismis/awesome-fetch)
 
-Awesome system information packages and tools.
+Awesome system information command-line tools.
 
 ## Contents
 
