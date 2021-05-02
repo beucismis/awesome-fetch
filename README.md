@@ -23,7 +23,7 @@ Awesome system information packages and tools.
 
 - [pridefetch](https://github.com/charpointer/pridefetch) - :rainbow_flag: Neofetch but gay.
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool.
-- [rainbowstream](https://github.com/orakaro/rainbowstream) - Rainbowstream is a Twitter command line interface client
+- [bpytop](https://github.com/aristocratos/bpytop) -  Linux/OSX/FreeBSD resource monitor 
 
 ## Rust
 
