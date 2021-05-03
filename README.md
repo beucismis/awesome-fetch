@@ -6,6 +6,7 @@ Awesome system information command-line tools.
 
 - [C](#c)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -18,6 +19,10 @@ Awesome system information command-line tools.
 ## Perl
 
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl.
+
+## PowerShell
+
+- [winfetch](https://github.com/lptstr/winfetch) - :hammer_and_wrench: A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 
 ## Python
 
