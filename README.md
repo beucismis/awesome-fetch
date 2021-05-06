@@ -5,6 +5,7 @@ Awesome system information command-line tools.
 ## Contents
 
 - [C](#c)
+- [Go](#go)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -16,6 +17,10 @@ Awesome system information command-line tools.
 - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+
+## Go
+
+- [winfetch](https://github.com/M4cs/winfetch) - :computer: Neofetch/Screenfetch Alternative Written in Golang.
 
 ## Perl
 
