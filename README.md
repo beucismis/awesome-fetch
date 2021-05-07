@@ -40,6 +40,7 @@ Awesome system information command-line tools.
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - :art: :crab: A system information tool for Rustaceans.
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism.
+- [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
 
 ## Shell
 
