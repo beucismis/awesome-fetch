@@ -49,6 +49,7 @@ Awesome system information command-line tools.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
+- [info.sh](https://github.com/jusdepatate/info.sh) - :computer: info.sh is a little script that works like screenfetch or neofetch, it show infos.
 - [neofetch](https://github.com/dylanaraps/neofetch) - :framed_picture: A command-line system information tool written in bash 3.2+
 - [pfetch](https://github.com/dylanaraps/pfetch) - :penguin: A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
