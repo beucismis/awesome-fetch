@@ -37,6 +37,7 @@ Awesome system information command-line tools.
 
 ## Python
 
+- [lovefetch](https://github.com/oppsec/lovefetch) - :heart: A CLI System Information Tool.
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - :joystick: Command-line tool similar to neofetch for looking up pokemon in the terminal.
 - [pridefetch](https://github.com/charpointer/pridefetch) - :rainbow_flag: Neofetch but gay.
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool.
