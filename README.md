@@ -1,6 +1,7 @@
 # Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://github.com/beucismis/awesome-fetch)
 
 Awesome system information command-line tools.
+> Operation system, kernel, CPU, GPU, memory info and more...
 
 ## Contents
 
@@ -11,6 +12,7 @@ Awesome system information command-line tools.
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 
 ## C
@@ -50,6 +52,10 @@ Awesome system information command-line tools.
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism.
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
+
+## Scala
+
+- [scalafetch](https://github.com/Phate6660/scalafetch) - Neofetch alternative in Scala.
 
 ## Shell
 
