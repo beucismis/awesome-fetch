@@ -36,6 +36,7 @@ Awesome system information command-line tools.
 
 ## PowerShell
 
+- [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool.
 - [winfetch](https://github.com/lptstr/winfetch) - :hammer_and_wrench: A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 
 ## Python
