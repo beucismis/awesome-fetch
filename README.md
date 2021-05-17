@@ -5,6 +5,7 @@ Awesome system information command-line tools.
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [C](#c)
 - [Go](#go)
 - [Lua](#lua)
@@ -14,6 +15,10 @@ Awesome system information command-line tools.
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+
+## Batchfile
+
+- [WinFetch](https://github.com/hXR16F/WinFetch) - Ported version of "screenfetch" from Linux.
 
 ## C
 
