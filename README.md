@@ -7,6 +7,7 @@ Awesome system information command-line tools.
 
 - [Batchfile](#batchfile)
 - [C](#c)
+- [Erlang](#erlang)
 - [Go](#go)
 - [Lua](#lua)
 - [Perl](#perl)
@@ -27,6 +28,10 @@ Awesome system information command-line tools.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch... 
+
+## Erlang
+
+- [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP.
 
 ## Go
 
