@@ -67,6 +67,7 @@ Awesome system information command-line tools.
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism.
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
+- [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust.
 
 ## Scala
 
