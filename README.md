@@ -16,6 +16,7 @@ Awesome system information command-line tools.
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 
 ## Batchfile
 
@@ -80,6 +81,10 @@ Awesome system information command-line tools.
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts.
 - [pfetch](https://github.com/dylanaraps/pfetch) - :penguin: A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+
+## TypeScript
+
+- [ghfetch](https://github.com/bwac2517/ghfetch) - :framed_picture: neofetch, but for Github.
 
 ## Contribute
 
