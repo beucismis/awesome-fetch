@@ -9,6 +9,7 @@ Awesome system information command-line tools.
 - [C](#c)
 - [Erlang](#erlang)
 - [Go](#go)
+- [Haskell](#haskell)
 - [Lua](#lua)
 - [Perl](#perl)
 - [PowerShell](#powershell)
@@ -38,6 +39,10 @@ Awesome system information command-line tools.
 ## Go
 
 - [winfetch](https://github.com/M4cs/winfetch) - :computer: Neofetch/Screenfetch Alternative Written in Golang.
+
+## Haskell
+
+- [hsfetch](https://github.com/SleepyCatgirl/hsfetch) - Neofetch rewritten in haskell.
 
 ## Lua 
 
