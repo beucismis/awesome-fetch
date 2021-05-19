@@ -82,6 +82,7 @@ Awesome system information command-line tools.
 
 ## Shell
 
+- [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
