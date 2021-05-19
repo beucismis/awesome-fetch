@@ -63,6 +63,7 @@ Awesome system information command-line tools.
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - :joystick: Command-line tool similar to neofetch for looking up pokemon in the terminal.
 - [pridefetch](https://github.com/charpointer/pridefetch) - :rainbow_flag: Neofetch but gay.
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool.
+- [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch.
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch.
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python.
 
