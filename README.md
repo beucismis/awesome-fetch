@@ -29,6 +29,7 @@ Awesome system information command-line tools.
 - [archfetch](https://github.com/xxczaki/archfetch) - :framed_picture: Simple CLI system information tool for Arch Linux.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
+- [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch... 
 
