@@ -40,6 +40,7 @@ Awesome system information command-line tools.
 ## Go
 
 - [winfetch](https://github.com/M4cs/winfetch) - :computer: Neofetch/Screenfetch Alternative Written in Golang.
+- [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO
 
 ## Haskell
 
