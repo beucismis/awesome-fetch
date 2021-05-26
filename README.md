@@ -70,6 +70,7 @@ Awesome system information command-line tools.
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch.
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch.
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python.
+- [wfetch](https://github.com/igormako/wfetch) - A small (~100 lines of code) terminal weather fetch tool written in Python.
 
 ## Rust
 
