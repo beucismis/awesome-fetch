@@ -39,8 +39,8 @@ Awesome system information command-line tools.
 
 ## Go
 
+- [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO.
 - [winfetch](https://github.com/M4cs/winfetch) - :computer: Neofetch/Screenfetch Alternative Written in Golang.
-- [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO
 
 ## Haskell
 
@@ -84,6 +84,7 @@ Awesome system information command-line tools.
 ## Shell
 
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school.
+- [bfetch](https://github.com/NNBnh/bfetch) - :fax: Dynamic fetch displayer that SuperB.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
