@@ -48,6 +48,7 @@ Awesome system information command-line tools.
 
 ## Lua 
 
+- [3dfetch](https://github.com/aliceinpalth/3dfetch) - :fallen_leaf: Displays various information about your Nintendo 3DS in pretty colors. 
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod.
 
 ## Perl
