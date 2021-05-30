@@ -59,7 +59,7 @@ Awesome system information command-line tools.
 
 ## PHP
 
-
+- [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool.
 
 ## PowerShell
 
