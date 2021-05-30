@@ -12,6 +12,7 @@ Awesome system information command-line tools.
 - [Haskell](#haskell)
 - [Lua](#lua)
 - [Perl](#perl)
+- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -55,6 +56,10 @@ Awesome system information command-line tools.
 ## Perl
 
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl.
+
+## PHP
+
+- [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool.
 
 ## PowerShell
 
