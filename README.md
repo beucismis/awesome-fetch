@@ -1,6 +1,6 @@
 # Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://github.com/beucismis/awesome-fetch)
 
-Awesome system information command-line tools.
+Awesome system information command-line fetch tools.
 > Operation system, kernel, CPU, GPU, memory info and more...
 
 ## Contents
