@@ -104,6 +104,7 @@ Awesome system information command-line fetch tools.
 - [pfetch](https://github.com/dylanaraps/pfetch) - :penguin: A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
+- [reifetch](https://github.com/OkaVatti/reifetch)- :cat2: A light fetch script, based on Neofetch, for Linux, MacOS, and BSD
 
 ## TypeScript
 
