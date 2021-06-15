@@ -42,6 +42,7 @@ Awesome system information command-line fetch tools.
 ## Go
 
 - [archimede](https://github.com/gennaro-tedesco/archimede) - :bulb: Unobtrusive project information fetcher.
+- [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - :rabbit: Tiny system info fetch utility. 
 - [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO.
 - [winfetch](https://github.com/M4cs/winfetch) - :computer: Neofetch/Screenfetch Alternative Written in Golang.
 
