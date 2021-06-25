@@ -1,7 +1,7 @@
-# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://github.com/beucismis/awesome-fetch)
+# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome system information command-line fetch tools.
-> Operation system, kernel, CPU, GPU, memory info and more...
+> Operation system, kernel, CPU, GPU, memory info and more.
 
 ## Contents
 
@@ -33,7 +33,7 @@ Awesome system information command-line fetch tools.
 - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
 - [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
-- [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch... 
+- [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch.
 
 ## Erlang
 
@@ -84,7 +84,7 @@ Awesome system information command-line fetch tools.
 
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - :art: :crab: A system information tool for Rustaceans.
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
-- [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust :crab:
+- [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust :crab:.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
@@ -101,17 +101,17 @@ Awesome system information command-line fetch tools.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
-- [info.sh](https://github.com/jusdepatate/info.sh) - :computer: info.sh is a little script that works like screenfetch or neofetch, it show infos.
-- [neofetch](https://github.com/dylanaraps/neofetch) - :framed_picture: A command-line system information tool written in bash 3.2+
+- [info.sh](https://github.com/jusdepatate/info.sh) - :computer: Info.sh is a little script that works like screenfetch or neofetch, it show infos.
+- [neofetch](https://github.com/dylanaraps/neofetch) - :framed_picture: A command-line system information tool written in bash 3.2+.
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts.
 - [pfetch](https://github.com/dylanaraps/pfetch) - :penguin: A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [reifetch](https://github.com/OkaVatti/reifetch) - :cat2: A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
-- [reifetch](https://github.com/OkaVatti/reifetch)- :cat2: A light fetch script, based on Neofetch, for Linux, MacOS, and BSD
 
 ## TypeScript
 
-- [ghfetch](https://github.com/bwac2517/ghfetch) - :framed_picture: neofetch, but for Github.
+- [ghfetch](https://github.com/bwac2517/ghfetch) - :framed_picture: Neofetch, but for GitHub.
 
 ## Contribute
 
