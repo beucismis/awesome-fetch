@@ -79,6 +79,7 @@ Awesome system information command-line fetch tools.
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch.
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python.
 - [wfetch](https://github.com/igormako/wfetch) - A small (~100 lines of code) terminal weather fetch tool written in Python.
+- [xfcfet](https://github.com/xfcisco/xfcfet) - My own version of neofetch that includes sys info, spotify info, and ascii picture.
 
 ## Rust
 
