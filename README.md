@@ -88,6 +88,7 @@ Awesome system information command-line fetch tools.
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust.
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism.
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
+- [rfetch](https://github.com/kamui-7/rfetch) - A fast and minimal fetch program.
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch.
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust.
 
