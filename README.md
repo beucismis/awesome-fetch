@@ -102,6 +102,7 @@ Awesome system information command-line fetch tools.
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux.
+- [disfetch](https://github.com/llathasa-veleth/disfetch) - Yet another \*nix distro fetching program, but less complex.
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
 - [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos.
 - [mfetch](https://github.com/depsterr/mfetch) - Minimalist fetch.
