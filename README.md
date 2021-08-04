@@ -31,6 +31,7 @@ Awesome system information command-line fetch tools.
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool.
 - [efetch](https://github.com/NoSequel/efetch) - No description.
 - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
+- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch.
 - [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch.
