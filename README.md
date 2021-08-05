@@ -14,6 +14,7 @@ Awesome system information command-line fetch tools.
 - [Perl](#perl)
 - [PHP](#php)
 - [PowerShell](#powershell)
+- [Prolog](#prolog)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -68,6 +69,10 @@ Awesome system information command-line fetch tools.
 
 - [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool.
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
+
+## Prolog
+
+- [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog.
 
 ## Python
 
