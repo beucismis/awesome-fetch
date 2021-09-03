@@ -1,9 +1,8 @@
 # Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome system information command-line fetch tools.
-> Operation system, kernel, CPU, GPU, memory info and more.
+Command-line fetch tools for system information. Operation system, kernel, CPU, GPU, memory info and more.
 
-## Contents
+## Languages
 
 - [Batchfile](#batchfile)
 - [C](#c)
