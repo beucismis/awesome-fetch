@@ -19,6 +19,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Zig](#zig)
 
 ## Batchfile
 
@@ -118,6 +119,10 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [sfetch](https://github.com/sean0262/sfetch) - Sean's information fetch. A shell script for displaying system information on Linux/BSD distros.
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
+
+## Zig
+
+- [tuatara](https://github.com/q60/tuatara) - ziggidy \*nix system info fetcher targeting speed and concepts of disfetch.
 
 ## TypeScript
 
