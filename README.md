@@ -8,6 +8,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [C](#c)
 - [Erlang](#erlang)
 - [Go](#go)
+- [Guile](#guile)
 - [Haskell](#haskell)
 - [Lua](#lua)
 - [Perl](#perl)
@@ -46,6 +47,10 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. 
 - [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO.
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang.
+
+## Guile
+
+- [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme.
 
 ## Haskell
 
