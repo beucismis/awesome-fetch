@@ -6,6 +6,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 - [Batchfile](#batchfile)
 - [C](#c)
+- [Cpp](#cpp)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Guile](#guile)
@@ -37,6 +38,10 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c.
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch.
+
+## Cpp
+
+- [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++
 
 ## Erlang
 
