@@ -122,6 +122,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [gfetch](https://github.com/lptstr/gfetch) - A lightweight, fast Git fetch script written in POSIX sh.
 - [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos.
 - [mfetch](https://github.com/depsterr/mfetch) - Minimalist fetch.
+- [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program.
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts.
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
