@@ -2,7 +2,7 @@
 
 Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
-## Languages
+## Contents
 
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -131,10 +131,10 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
 
-## Zig
-
-- [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch.
-
 ## TypeScript
 
 - [ghfetch](https://github.com/bwac2517/ghfetch) - Neofetch, but for GitHub.
+
+## Zig
+
+- [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch.
