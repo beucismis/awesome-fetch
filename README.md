@@ -1,6 +1,6 @@
 # Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more.
+Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
 ## Languages
 
@@ -41,7 +41,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ## Cpp
 
-- [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++
+- [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++.
 
 ## Erlang
 
@@ -133,12 +133,8 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ## Zig
 
-- [tuatara](https://github.com/q60/tuatara) - ziggidy \*nix system info fetcher targeting speed and concepts of disfetch.
+- [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch.
 
 ## TypeScript
 
 - [ghfetch](https://github.com/bwac2517/ghfetch) - Neofetch, but for GitHub.
-
-## Contributing
-
-Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
