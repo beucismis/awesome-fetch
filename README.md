@@ -1,4 +1,4 @@
-sjfetch# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
