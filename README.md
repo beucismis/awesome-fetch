@@ -1,4 +1,4 @@
-# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+sjfetch# Awesome Fetch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
@@ -41,6 +41,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ## Cpp
 
+- [sjfetch](https://github.com/fikret0/sjfetch) - A command-line tool to display colorful distro information.
 - [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++.
 
 ## Erlang
