@@ -129,6 +129,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [sfetch](https://github.com/sean0262/sfetch) - Sean's information fetch. A shell script for displaying system information on Linux/BSD distros.
+- [sysfetch](https://github.com/wick3dr0se/sysfetch) A super tiny *nix system information script written in BASH
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
 
