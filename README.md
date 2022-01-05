@@ -130,6 +130,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [sfetch](https://github.com/sean0262/sfetch) - Sean's information fetch. A shell script for displaying system information on Linux/BSD distros.
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
+- [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script.
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better!
 
 ## TypeScript
