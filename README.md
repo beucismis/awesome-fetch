@@ -115,6 +115,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ## Shell
 
+- [sf](https://github.com/mauro-balades/sf) - A small system information fetcher.
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school.
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
