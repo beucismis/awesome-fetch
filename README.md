@@ -115,7 +115,6 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ## Shell
 
-- [sf](https://github.com/mauro-balades/sf) - A small system information fetcher.
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school.
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB.
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android.
@@ -129,6 +128,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts.
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh.
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [sf](https://github.com/mauro-balades/sf) - A small system information fetcher.
 - [sfetch](https://github.com/sean0262/sfetch) - Sean's information fetch. A shell script for displaying system information on Linux/BSD distros.
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD.
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script.
