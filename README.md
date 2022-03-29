@@ -56,6 +56,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. `Python`
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
+- [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace. `C`
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Cˇ
@@ -76,7 +77,6 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. `Shell`
 - [sfetch](https://github.com/sean0262/sfetch) - Sean's information fetch. A shell script for displaying system information on Linux/BSD distros. `Shell`
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
-- [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace. `C`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 
