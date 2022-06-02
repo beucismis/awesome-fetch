@@ -18,17 +18,17 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. `Shell`
 - [3dfetch](https://github.com/aliceinpalth/3dfetch) - Displays various information about your Nintendo 3DS in pretty colors. `Lua`
-- [afetch](https://github.com/13-CF/afetch) - Simple system info written in C. `Cˇ
+- [afetch](https://github.com/13-CF/afetch) - Simple system info written in C. `C`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
-- [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `Cˇ
-- [efetch](https://github.com/NoSequel/efetch) - No description. `Cˇ
+- [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
+- [efetch](https://github.com/NoSequel/efetch) - No description. `C`
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
-- [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. `Cˇ
+- [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. `C`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
-- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `Cˇ
+- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
 - [hsfetch](https://github.com/SleepyCatgirl/hsfetch) - Neofetch rewritten in haskell. `Haskell`
@@ -51,7 +51,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/fikret0/sjfetch) - A command-line tool to display colorful distro information. `C++`
-- [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c. `Cˇ
+- [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c. `C`
 - [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++. `C++`
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. `Python`
@@ -59,7 +59,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace. `C`
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
-- [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Cˇ
+- [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `C`
 
 ### Windows Only
 
@@ -70,7 +70,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 ### GNU/Linux Only
 
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android. `Shell`
-- [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `Cˇ
+- [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `C`
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux. `Shell`
 - [disfetch](https://github.com/llathasa-veleth/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
