@@ -8,7 +8,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
   - [Cross Platform](#cross-platform)
   - [Windows Only](#windows-only)
   - [GNU/Linux Only](#gnulinux-only)
-  - [Mac OS Only](#macos-only)
+  - [Mac OS Only](#mac-os-only)
 - [Languge](#language)
 - [Source](#source)
 - [Other](#other)
