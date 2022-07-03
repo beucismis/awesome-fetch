@@ -8,6 +8,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
   - [Cross Platform](#cross-platform)
   - [Windows Only](#windows-only)
   - [GNU/Linux Only](#gnulinux-only)
+  - [Mac OS Only](#mac-os-only)
 - [Languge](#language)
 - [Source](#source)
 - [Other](#other)
@@ -79,6 +80,9 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
+
+### Mac OS Only
+- [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
 
 ## Language
 
