@@ -83,6 +83,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 
 ### Mac OS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
+- [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in vlang. `V`
 
 ## Language
 
