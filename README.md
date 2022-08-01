@@ -9,7 +9,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
   - [Windows Only](#windows-only)
   - [GNU/Linux Only](#gnulinux-only)
   - [Mac OS Only](#mac-os-only)
-- [Languge](#language)
+- [Language](#language)
 - [Source](#source)
 - [Other](#other)
 
