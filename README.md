@@ -61,6 +61,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `C`
+- [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
 
 ### Windows Only
 
