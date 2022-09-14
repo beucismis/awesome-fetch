@@ -20,6 +20,7 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. `Shell`
 - [3dfetch](https://github.com/aliceinpalth/3dfetch) - Displays various information about your Nintendo 3DS in pretty colors. `Lua`
 - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C. `C`
+- [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
