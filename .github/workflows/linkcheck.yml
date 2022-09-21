@@ -1,4 +1,4 @@
-name: Link-check
+name: link-check
 on: [push]
 
 jobs:
@@ -8,5 +8,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run linksafe
         uses: TechWiz-3/linksafe@main
-        with: # comma seperated lists
-          whitelist_files: "CONTRIBUTING.md"
+        with:
+          whitelist_files: "ARCHIVE.md,CONTRIBUTING.md"
