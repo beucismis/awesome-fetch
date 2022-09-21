@@ -1,6 +1,6 @@
 # Awesome Fetch
 
-Command-line fetch tools for system information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
+Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
 ## Contents
 
@@ -34,7 +34,6 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
 - [hsfetch](https://github.com/SleepyCatgirl/hsfetch) - Neofetch rewritten in haskell. `Haskell`
-- [gf](https://github.com/Smirnov-O/gf) - Simple system info written in GO. `Go`
 - [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
@@ -42,7 +41,6 @@ Command-line fetch tools for system information. Operating system, kernel, CPU, 
 - [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. `Shell`
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+. `Shell`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
-- [pridefetch](https://github.com/charpointer/pridefetch) - Neofetch but gay. `Python`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
