@@ -82,6 +82,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [nitch](https://github.com/unxsh/nitch) - A incredibly fast system fetch written in nim. `Nim`
+- [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
 
 ### Mac OS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
