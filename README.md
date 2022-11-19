@@ -34,7 +34,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
-- [hsfetch](https://github.com/SleepyCatgirl/hsfetch) - Neofetch rewritten in haskell. `Haskell`
 - [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
