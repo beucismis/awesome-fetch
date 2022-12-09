@@ -83,7 +83,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
 - [nitch](https://github.com/unxsh/nitch) - A incredibly fast system fetch written in nim. `Nim`
 - [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
-- [hfetch](https://github.com/gentoo-btw/hfetch) - Yet another fetch written in bash. with fortune.
+- [hfetch](https://github.com/gentoo-btw/hfetch) - Yet another fetch written in bash. with fortune. `Shell`
 
 ### Mac OS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
