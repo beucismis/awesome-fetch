@@ -34,12 +34,14 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
+- [hyfetch](https://github.com/hykilpikonna/hyfetch) - Run neofetch with LGBTQ+ Pride flags. 🏳️‍🌈 🏳️‍⚧️ `Python`
 - [info.sh](https://github.com/jusdepatate/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 - [mfetch](https://github.com/depsterr/mfetch) - Minimalist fetch. `Shell`
 - [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. `Shell`
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+. `Shell`
+- [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
