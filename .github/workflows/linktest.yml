@@ -1,0 +1,12 @@
+name: Link Test
+on: [push]
+
+jobs:
+  lint-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run linktest
+        uses: beucismis-archive/linktest@main
+        with:
+          file-path: "README.md"
