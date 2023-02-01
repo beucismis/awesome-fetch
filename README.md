@@ -42,6 +42,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. `Shell`
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+. `Shell`
 - [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
+- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. `Shell`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
@@ -77,7 +78,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux. `Shell`
 - [disfetch](https://github.com/llathasa-veleth/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
-- [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. `Shell`
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
