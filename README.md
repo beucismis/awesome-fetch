@@ -1,19 +1,21 @@
 # Awesome Fetch
 
+[![Link Test](https://github.com/beucismis/awesome-fetch/actions/workflows/linktest.yml/badge.svg)](https://github.com/beucismis/awesome-fetch/actions/workflows/linktest.yml)
+
 Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
 ## Contents
 
-- [Operating System](#operating-system)
+- [OS](#os)
   - [Cross Platform](#cross-platform)
   - [Windows Only](#windows-only)
   - [GNU/Linux Only](#gnulinux-only)
-  - [Mac OS Only](#mac-os-only)
-- [Language](#language)
+  - [MacOS Only](#macos-only)
+- [Programing Language](#programing-language)
 - [Source](#source)
-- [Other](#other)
+- [Miscellaneous](#miscellaneous)
 
-## Operating System
+## OS
 
 ### Cross Platform
 
@@ -87,11 +89,11 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
 - [inxi](https://github.com/smxi/inxi) - A faster, powerful, full featured CLI system information tool. `Perl`
 
-### Mac OS Only
+### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
 - [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in vlang. `V`
 
-## Language
+## Programing Language
 
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans. `Rust`
 - [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool. `PHP`
@@ -103,7 +105,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [ghfetch](https://github.com/bwac2517/ghfetch) - Neofetch, but for GitHub. `TypeScript`
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. `Rust`
 
-## Other
+## Miscellaneous
 
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod. `Lua`
 - [pwy](https://github.com/clieg/pwy) - A simple weather tool. `Python`
