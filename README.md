@@ -88,6 +88,8 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
 - [ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
 - [inxi](https://github.com/smxi/inxi) - A faster, powerful, full featured CLI system information tool. `Perl`
+- [yarsi](https://github.com/BinaryBrainiacs/yarsi), Yet another rust system info fetcher. `rust`
+
 
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
