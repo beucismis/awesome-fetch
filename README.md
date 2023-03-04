@@ -57,6 +57,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/fikret0/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c. `C`
+- [sofetch](http://github.com/Soviet-Linux/sofetch) - A cross-platform distro and os grabber like neofetch written in python for soviet-linux but also for other systems. `Python`
 - [sysfex](https://github.com/mebesus/sysfex) - Another system information tool written in C++. `C++`
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tfetch](https://github.com/Endlassy/tfetch) - Tree view like fetch. `Python`
