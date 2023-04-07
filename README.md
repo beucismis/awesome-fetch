@@ -22,6 +22,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. `Shell`
 - [3dfetch](https://github.com/aliceinpalth/3dfetch) - Displays various information about your Nintendo 3DS in pretty colors. `Lua`
 - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C. `C`
+- [albafetch](https://github.com/alba4k/albafetch) - Faster neofetch alternative for macOS, Linux and Android. `C`
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
@@ -30,7 +31,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. `Shell`
 - [efetch](https://github.com/NoSequel/efetch) - No description. `C`
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
-- [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux. `C`
+- [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. `C`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
