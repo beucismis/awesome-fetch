@@ -10,8 +10,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
-  - about.md
+  - CONTRIBUTING.md
+  - ARCHIVED.md
   - LICENSE.md
   - README.md
-  - article.md
