@@ -92,7 +92,9 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [inxi](https://github.com/smxi/inxi) - A faster, powerful, full featured CLI system information tool. `Perl`
 - [yarsi](https://github.com/BinaryBrainiacs/yarsi) - Yet another rust system info fetcher. `Rust`
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
-
+- [vsfetch](https://github.com/ow1c/vsfetch) - Simple Lightweight system information fetcher command-line tool made with `Bash` without any extra dependency.
+- [rxfetch](https://github.com/Mangeshrex/rxfetch) - Simple system information fetcher command-line tool made with `Bash` having font support.
+  
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
 - [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in vlang. `V`
@@ -102,6 +104,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans. `Rust`
 - [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool. `PHP`
 - [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
+
 
 ## Source
 
