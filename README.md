@@ -28,6 +28,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
+- [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals. `Shell`
 - [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. `Shell`
 - [efetch](https://github.com/NoSequel/efetch) - No description. `C`
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
