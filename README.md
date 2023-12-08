@@ -83,7 +83,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `C`
 - [cfetch](https://github.com/clieg/cfetch) - A simple system information tool for Linux. `Shell`
 - [disfetch](https://github.com/llathasa-veleth/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
-- [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
+- [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
