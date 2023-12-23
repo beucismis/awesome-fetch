@@ -85,6 +85,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
+- [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
 - [nitch](https://github.com/ssleert/nitch) - A incredibly fast system fetch written in nim. `Nim`
@@ -93,6 +94,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [inxi](https://github.com/smxi/inxi) - A faster, powerful, full featured CLI system information tool. `Perl`
 - [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
+- [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch buy gay. `Python`
 
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
