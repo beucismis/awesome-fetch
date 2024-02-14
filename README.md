@@ -76,7 +76,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 - [WinFetch](https://github.com/hXR16F/WinFetch) - Ported version of "screenfetch" from Linux. `Batchfile`
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
-- [xFetch.ps1](https://github.com/XandrCopyrighted/xFetch.ps1) - xFetch, but for Windows.
+- [xFetch.ps1](https://github.com/XandrCopyrighted/xFetch.ps1) - xFetch, but for Windows. `PowerShell`
 
 ### GNU/Linux Only
 
