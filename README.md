@@ -62,6 +62,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [smilefetch](https://github.com/sudosmile/smilefetch) -  A screenfetch - like tool written in c. `C`
 - [sofetch](https://github.com/Soviet-Linux/sofetch) - A cross-platform distro and os grabber like neofetch written in python for soviet-linux but also for other systems. `Python`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
+- [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `python`.
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
