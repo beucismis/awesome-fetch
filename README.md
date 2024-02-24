@@ -76,6 +76,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 - [WinFetch](https://github.com/hXR16F/WinFetch) - Ported version of "screenfetch" from Linux. `Batchfile`
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
+- [xFetch.ps1](https://github.com/XandrCopyrighted/xFetch.ps1) - xFetch, but for Windows. `PowerShell`
 
 ### GNU/Linux Only
 
@@ -95,6 +96,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch buy gay. `Python`
+- [xFetch](https://github.com/XandrCopyrighted/xFetch) - A simple fetch written in Rust. `Rust`
 
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
