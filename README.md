@@ -1,6 +1,6 @@
 # Awesome Fetch
 
-[![Link Test](https://github.com/beucismis/awesome-fetch/actions/workflows/linktest.yml/badge.svg)](https://github.com/beucismis/awesome-fetch/actions/workflows/linktest.yml)
+![](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/linktest.yml?label=Link%20Test)
 
 Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
 
