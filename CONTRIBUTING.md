@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
+
 ## Guideline
 
 - Check your spelling and grammar.
@@ -14,11 +16,9 @@ Your contributions are always welcome!
 ## Pull Request Process
 
 - Make sure the PR title is in the format of `Add project-name`.
-- Add the link.
+- Add the project link to PR description (optional).
 
 Template:
 ```
-[project-name](http://example.com) - A short description ends with a period. `Language`
+[project-name](http://example.com/) - A short description ends with a period. `Programing Language`
 ```
-
-Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
