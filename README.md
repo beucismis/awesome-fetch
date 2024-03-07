@@ -98,6 +98,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch buy gay. `Python`
 - [xFetch](https://github.com/XandrCopyrighted/xFetch) - A simple fetch written in Rust. `Rust`
+- [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
 
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
