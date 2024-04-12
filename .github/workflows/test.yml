@@ -1,0 +1,29 @@
+name: Test
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          fail: true
+          args: --base . --verbose --no-progress README.md
+
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/REPORT.md
+          labels: report, automated issue
