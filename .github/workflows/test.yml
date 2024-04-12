@@ -24,5 +24,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
-          content-filepath: ./lychee/REPORT.md
+          content-filepath: REPORT.md
           labels: report, automated issue
