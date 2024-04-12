@@ -54,6 +54,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
+- [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
 - [scalafetch](https://github.com/Phate6660/scalafetch) - Neofetch alternative in Scala. `Scala`
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
