@@ -50,7 +50,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. `Shell`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
-- [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
@@ -97,6 +96,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch buy gay. `Python`
+- [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 - [xFetch](https://gitlab.com/XDRwastaken/xFetch) - A simple fetch written in Rust. `Rust`
 - [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
 
