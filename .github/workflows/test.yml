@@ -17,7 +17,6 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          fail: true
           args: --base . --verbose --no-progress README.md
 
       - name: Create Issue From File
