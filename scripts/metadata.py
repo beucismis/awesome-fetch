@@ -23,4 +23,4 @@ metadata_content = {"total": len(tools), "tools": tools}
 with open(METADATA_FILE, "w+", encoding="utf-8") as file:
     json.dump(metadata_content, file, indent=2, ensure_ascii=False)
 
-sys.exit("Done!")
+sys.exit(0)
