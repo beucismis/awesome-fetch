@@ -1,13 +1,14 @@
 # Awesome Fetch
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbeucismis%2Fawesome-fetch%2Fraw%2Fmain%2Fmetadata.json&query=%24.total&label=Total%20Tool)
-![](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/links.yml?label=Links)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbeucismis%2Fawesome-fetch%2Fraw%2Fmain%2Fmetadata.json&query=%24.total&label=total%20tool)
+![GitHub License](https://img.shields.io/github/license/beucismis/awesome-fetch)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/links.yml)
 
-Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
+Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `metadata.json` file is updated after commit. You can request this file in [raw](https://github.com/beucismis/awesome-fetch/raw/main/metadata.json) format and use it like a static API.
 
 ## Contents
 
-- [OS](#os)
+- [Operation System](#operation-system)
   - [Cross Platform](#cross-platform)
   - [Windows Only](#windows-only)
   - [GNU/Linux Only](#gnulinux-only)
@@ -16,7 +17,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [Source](#source)
 - [Miscellaneous](#miscellaneous)
 
-## OS
+## Operation System
 
 ### Cross Platform
 
