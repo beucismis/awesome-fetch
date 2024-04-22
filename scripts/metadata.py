@@ -18,7 +18,7 @@ METADATA_FILE = sys.argv[2]
 template_pattern = r"- \[(.*?)\]\((.*?)\) - (.*?)\. \`([^\`]+)\`"
 matches = re.findall(template_pattern, open(README_FILE).read())
 tools = [asdict(Tool(*match)) for match in matches]
-metadata_content = {"total:": len(tools), "tools": tools}
+metadata_content = {"total": len(tools), "tools": tools}
 
 with open(METADATA_FILE, "w+") as file:
     json.dump(metadata_content, file, indent=2)
