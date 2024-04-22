@@ -1,5 +1,6 @@
 # Awesome Fetch
 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbeucismis%2Fawesome-fetch%2Fraw%2Fmain%2Fmetadata.json&query=%24.total&label=Total%20Tool)
 ![](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/links.yml?label=Links)
 
 Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md).
