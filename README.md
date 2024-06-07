@@ -97,7 +97,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [inxi](https://github.com/smxi/inxi) - A faster, powerful, full featured CLI system information tool. `Perl`
 - [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
 - [procfetch](https://github.com/TanmayPatil105/procfetch) -  A command-line system information utility. `C++`
-- [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch buy gay. `Python`
+- [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
 - [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 - [xFetch](https://gitlab.com/XDRwastaken/xFetch) - A simple fetch written in Rust. `Rust`
 - [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
