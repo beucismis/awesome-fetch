@@ -1,5 +1,5 @@
 {
-  "total": 86,
+  "total": 85,
   "tools": [
     {
       "name": "101fetch",
@@ -107,12 +107,6 @@
       "name": "freshfetch",
       "url": "https://github.com/K4rakara/freshfetch",
       "description": "A fresh take on neofetch.",
-      "language": "Rust"
-    },
-    {
-      "name": "fsi",
-      "url": "https://github.com/MustafaSalih1993/fsi",
-      "description": "FSI (Fetch System Info) cli tool written in Rust.",
       "language": "Rust"
     },
     {
