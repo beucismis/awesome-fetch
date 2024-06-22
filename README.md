@@ -39,7 +39,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
-- [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
 - [hayabusa](https://github.com/Notarin/hayabusa) - A daemonized fetch that is fully featured as well as fast. `Rust`
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - Run neofetch with LGBTQ+ Pride flags. 🏳️‍🌈 🏳️‍⚧️ `Python`
 - [info.sh](https://github.com/bc1bb/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
