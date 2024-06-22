@@ -21,6 +21,8 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: "README.md"
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
