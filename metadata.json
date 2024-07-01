@@ -1,5 +1,5 @@
 {
-  "total": 85,
+  "total": 86,
   "tools": [
     {
       "name": "101fetch",
@@ -342,6 +342,12 @@
       "url": "https://github.com/q60/disfetch",
       "description": "Yet another \\*nix distro fetching program, but less complex.",
       "language": "Shell"
+    },
+    {
+      "name": "Catnap",
+      "url": "https://github.com/iinsertNameHere/catnap",
+      "description": "A playful, simple system-information concatenation tool.",
+      "language": "nim"
     },
     {
       "name": "NerdFetch",
