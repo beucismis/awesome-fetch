@@ -1,5 +1,5 @@
 {
-  "total": 86,
+  "total": 87,
   "tools": [
     {
       "name": "101fetch",
@@ -432,6 +432,12 @@
       "url": "https://github.com/beucismis/tinyfetch",
       "description": "Python and system information command-line fetch tool.",
       "language": "Python"
+    },
+    {
+      "name": "turbofetch",
+      "url": "https://github.com/ajTronic/turbofetch",
+      "description": "A blazingly-fast, minimal fetch for Arch Linux (uses Nerd Fonts).",
+      "language": "C"
     },
     {
       "name": "xFetch",
