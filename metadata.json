@@ -436,7 +436,7 @@
     {
       "name": "turbofetch",
       "url": "https://github.com/ajTronic/turbofetch",
-      "description": "A blazingly-fast, minimal fetch for Arch Linux (uses Nerd Fonts).",
+      "description": "A blazingly-fast, minimal fetch (uses Nerd Fonts).",
       "language": "C"
     },
     {
