@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/github/license/beucismis/awesome-fetch)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/links.yml)
 
-Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `metadata.json` file is updated after commit. You can request this file in [raw](https://github.com/beucismis/awesome-fetch/raw/main/metadata.json) format and use it like a static API.
+Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `metadata.json` file is updated after commit. You can request this file in [raw](https://beucismis.github.io/awesome-fetch/metadata.json) format and use it like a static API.
 
 ## Contents
 
