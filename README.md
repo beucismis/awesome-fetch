@@ -85,6 +85,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `C`
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `nim`
+- [CrabFetch](https://github.com/LivacoNew/CrabFetch) - An extremely fast, featureful and customizable command-line fetcher. `Rust`
 - [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
 - [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
