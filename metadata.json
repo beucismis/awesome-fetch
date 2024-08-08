@@ -1,5 +1,5 @@
 {
-  "total": 87,
+  "total": 88,
   "tools": [
     {
       "name": "101fetch",
@@ -348,6 +348,12 @@
       "url": "https://github.com/iinsertNameHere/catnap",
       "description": "A playful, simple system-information concatenation tool.",
       "language": "nim"
+    },
+    {
+      "name": "CrabFetch",
+      "url": "https://github.com/LivacoNew/CrabFetch",
+      "description": "An extremely fast, featureful and customizable command-line fetcher.",
+      "language": "Rust"
     },
     {
       "name": "NerdFetch",
