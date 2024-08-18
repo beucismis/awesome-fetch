@@ -49,6 +49,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+. `Shell`
 - [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
 - [pfetch](https://github.com/dylanaraps/pfetch) - A pretty system information tool written in POSIX sh. `Shell`
+- [pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A pretty system information tool written in Rust. `Rust`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
