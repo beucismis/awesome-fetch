@@ -1,5 +1,5 @@
 {
-  "total": 88,
+  "total": 89,
   "tools": [
     {
       "name": "101fetch",
@@ -168,6 +168,12 @@
       "url": "https://github.com/dylanaraps/pfetch",
       "description": "A pretty system information tool written in POSIX sh.",
       "language": "Shell"
+    },
+    {
+      "name": "pfetch-rs",
+      "url": "https://github.com/Gobidev/pfetch-rs",
+      "description": "A pretty system information tool written in Rust.",
+      "language": "Rust"
     },
     {
       "name": "Pokefetch",
