@@ -61,7 +61,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) -  A fast screenfetch - like tool. `Rust`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
-- [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `python`.
+- [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `Python`.
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
@@ -79,7 +79,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android. `Shell`
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `Shell`
-- [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `nim`
+- [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `Nim`
 - [CrabFetch](https://github.com/LivacoNew/CrabFetch) - An extremely fast, featureful and customizable command-line fetcher. `Rust`
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool. `C++`
@@ -107,7 +107,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans. `Rust`
 - [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool. `PHP`
-- [pythonfetch](https://github.com/beucismis/pythonfetch) - Python and system information command-line tool. `Python`
+- [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 
 ## Source
 
