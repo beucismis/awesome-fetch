@@ -104,6 +104,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [turbofetch](https://github.com/ajTronic/turbofetch) - A blazingly-fast, minimal fetch that uses Nerd Fonts. `C`
 - [xFetch](https://gitlab.com/XDRwastaken/xFetch) - A simple fetch written in Rust. `Rust`
 - [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
+- [gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool. `C++`
 
 ### MacOS Only
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
