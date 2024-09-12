@@ -62,8 +62,8 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) -  A fast screenfetch - like tool. `Rust`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
 - [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `python`.
-- [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
+- [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
@@ -79,26 +79,27 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android. `Shell`
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `Shell`
-- [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `nim`
 - [CrabFetch](https://github.com/LivacoNew/CrabFetch) - An extremely fast, featureful and customizable command-line fetcher. `Rust`
-- [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts. `Shell`
-- [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
+- [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
+- [gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool. `C++`
+- [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts. `Shell`
+- [nitch](https://github.com/ssleert/nitch) - A incredibly fast system fetch written in nim. `Nim`
+- [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
+- [ramfetch](https://codeberg.org/jahway603/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
-- [nitch](https://github.com/ssleert/nitch) - A incredibly fast system fetch written in nim. `Nim`
-- [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
-- [ramfetch](https://codeberg.org/jahway603/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
-- [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
-- [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
 - [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 - [turbofetch](https://github.com/ajTronic/turbofetch) - A blazingly-fast, minimal fetch that uses Nerd Fonts. `C`
 - [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
-- [gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool. `C++`
+- [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
+- [vfetch](https://github.com/Lorago/vfetch) - A simple fetch tool for Linux written in Python. `Python`
+- [yarsi](https://github.com/LinuxNerdBTW/yarsi) - Yet another rust system info fetcher. `Rust`
 
 ### MacOS Only
+
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
 - [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in vlang. `V`
 
