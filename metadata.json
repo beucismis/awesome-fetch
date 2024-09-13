@@ -1,5 +1,5 @@
 {
-  "total": 89,
+  "total": 91,
   "tools": [
     {
       "name": "101fetch",
@@ -41,6 +41,12 @@
       "name": "bfetch",
       "url": "https://github.com/NNBnh/bfetch",
       "description": "Dynamic fetch displayer that SuperB.",
+      "language": "Shell"
+    },
+    {
+      "name": "brofetch",
+      "url": "https://github.com/ufuayk/brofetch",
+      "description": "A detailed and fun command-line system information tool.",
       "language": "Shell"
     },
     {
@@ -462,6 +468,12 @@
       "url": "https://github.com/tyroruyk/ufetch",
       "description": "System fetch tool written in Rust.",
       "language": "Rust"
+    },
+    {
+      "name": "gpufetch",
+      "url": "https://github.com/Dr-Noob/gpufetch",
+      "description": "Simple yet fancy GPU architecture fetching tool.",
+      "language": "C++"
     },
     {
       "name": "mfetch-macos",
