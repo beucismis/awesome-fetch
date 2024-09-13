@@ -1,5 +1,5 @@
 {
-  "total": 91,
+  "total": 92,
   "tools": [
     {
       "name": "101fetch",
@@ -282,6 +282,12 @@
       "url": "https://github.com/q60/tuatara",
       "description": "Ziggidy \\*nix system info fetcher targeting speed and concepts of disfetch.",
       "language": "Zig"
+    },
+    {
+      "name": "unifetch",
+      "url": "https://github.com/nmimusic/unifetch",
+      "description": "An unofficial inheritor of Neofetch.",
+      "language": "Shell"
     },
     {
       "name": "uwufetch",
