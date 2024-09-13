@@ -28,6 +28,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
+- [brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
 - [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals. `Shell`
