@@ -28,6 +28,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
+- [brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
 - [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals. `Shell`
@@ -65,6 +66,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
 - [tinyscreen](https://github.com/pbkangafoo/tinyscreen) - Lightweight clone of screenfetch. `Python`
 - [tuatara](https://github.com/q60/tuatara) - Ziggidy \*nix system info fetcher targeting speed and concepts of disfetch. `Zig`
+- [unifetch](https://github.com/nmimusic/unifetch) - An unofficial inheritor of Neofetch. `Shell`
 - [winfetch](https://github.com/M4cs/winfetch) - Neofetch/Screenfetch Alternative Written in Golang. `Go`
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Rust`
