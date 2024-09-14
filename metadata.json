@@ -1,5 +1,5 @@
 {
-  "total": 92,
+  "total": 83,
   "tools": [
     {
       "name": "101fetch",
@@ -158,21 +158,9 @@
       "language": "Shell"
     },
     {
-      "name": "neofetch",
-      "url": "https://github.com/dylanaraps/neofetch",
-      "description": "A command-line system information tool written in bash 3.2+.",
-      "language": "Shell"
-    },
-    {
       "name": "neowofetch",
       "url": "https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch",
       "description": "An updated, actively maintained fork of neofetch inside the HyFetch repo.",
-      "language": "Shell"
-    },
-    {
-      "name": "pfetch",
-      "url": "https://github.com/dylanaraps/pfetch",
-      "description": "A pretty system information tool written in POSIX sh.",
       "language": "Shell"
     },
     {
@@ -249,9 +237,9 @@
     },
     {
       "name": "smilefetch",
-      "url": "https://github.com/sudosmile/smilefetch",
-      "description": " A screenfetch - like tool written in c.",
-      "language": "C"
+      "url": "https://github.com/ashedapuppy/smilefetch",
+      "description": " A fast screenfetch - like tool.",
+      "language": "Rust"
     },
     {
       "name": "sysfex",
@@ -263,18 +251,18 @@
       "name": "terminal-widgets",
       "url": "https://github.com/imegeek/terminal-widgets",
       "description": "✨ Shows system information as tiny widgets on terminal screen.",
-      "language": "python"
-    },
-    {
-      "name": "tinyscreen",
-      "url": "https://github.com/pbkangafoo/tinyscreen",
-      "description": "Lightweight clone of screenfetch.",
       "language": "Python"
     },
     {
       "name": "tfetch",
       "url": "https://github.com/EndOfLine-py/tfetch",
       "description": "Tree view like fetch.",
+      "language": "Python"
+    },
+    {
+      "name": "tinyscreen",
+      "url": "https://github.com/pbkangafoo/tinyscreen",
+      "description": "Lightweight clone of screenfetch.",
       "language": "Python"
     },
     {
@@ -288,12 +276,6 @@
       "url": "https://github.com/nmimusic/unifetch",
       "description": "An unofficial inheritor of Neofetch.",
       "language": "Shell"
-    },
-    {
-      "name": "uwufetch",
-      "url": "https://github.com/TheDarkBug/uwufetch",
-      "description": "A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.",
-      "language": "C"
     },
     {
       "name": "winfetch",
@@ -311,7 +293,7 @@
       "name": "yafetch",
       "url": "https://github.com/yrwq/yafetch",
       "description": "Yet another fetch.",
-      "language": "C"
+      "language": "Rust"
     },
     {
       "name": "zeitfetch",
@@ -326,21 +308,9 @@
       "language": "PowerShell"
     },
     {
-      "name": "WinFetch",
-      "url": "https://github.com/hXR16F/WinFetch",
-      "description": "Ported version of \"screenfetch\" from Linux.",
-      "language": "Batchfile"
-    },
-    {
       "name": "winfetch",
       "url": "https://github.com/lptstr/winfetch",
       "description": "A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.",
-      "language": "PowerShell"
-    },
-    {
-      "name": "xFetch.ps1",
-      "url": "https://gitlab.com/XDRwastaken/xFetch_pwsh",
-      "description": "xFetch, but for Windows.",
       "language": "PowerShell"
     },
     {
@@ -353,19 +323,13 @@
       "name": "archfetch",
       "url": "https://github.com/xxczaki/archfetch",
       "description": "Simple CLI system information tool for Arch Linux.",
-      "language": "C"
-    },
-    {
-      "name": "disfetch",
-      "url": "https://github.com/q60/disfetch",
-      "description": "Yet another \\*nix distro fetching program, but less complex.",
       "language": "Shell"
     },
     {
       "name": "Catnap",
       "url": "https://github.com/iinsertNameHere/catnap",
       "description": "A playful, simple system-information concatenation tool.",
-      "language": "nim"
+      "language": "Nim"
     },
     {
       "name": "CrabFetch",
@@ -374,16 +338,40 @@
       "language": "Rust"
     },
     {
-      "name": "NerdFetch",
-      "url": "https://codeberg.org/thatonecalculator/NerdFetch",
-      "description": "A POSIX *nix fetch script using Nerdfonts.",
+      "name": "disfetch",
+      "url": "https://github.com/q60/disfetch",
+      "description": "Yet another \\*nix distro fetching program, but less complex.",
       "language": "Shell"
     },
     {
-      "name": "vfetch",
-      "url": "https://github.com/Lorago/vfetch",
-      "description": "A simple fetch tool for Linux written in Python.",
+      "name": "gpufetch",
+      "url": "https://github.com/Dr-Noob/gpufetch",
+      "description": "Simple yet fancy GPU architecture fetching tool.",
+      "language": "C++"
+    },
+    {
+      "name": "NerdFetch",
+      "url": "https://codeberg.org/thatonecalculator/NerdFetch",
+      "description": "A POSIX \\*nix fetch script using Nerdfonts.",
+      "language": "Shell"
+    },
+    {
+      "name": "nitch",
+      "url": "https://github.com/ssleert/nitch",
+      "description": "A incredibly fast system fetch written in nim.",
+      "language": "Nim"
+    },
+    {
+      "name": "pridefetch",
+      "url": "https://github.com/cartoon-raccoon/pridefetch",
+      "description": "Neofetch but gay.",
       "language": "Python"
+    },
+    {
+      "name": "ramfetch",
+      "url": "https://codeberg.org/jahway603/ramfetch",
+      "description": "A fetch which displays memory info using /proc/meminfo.",
+      "language": "Shell"
     },
     {
       "name": "sf",
@@ -410,48 +398,6 @@
       "language": "Shell"
     },
     {
-      "name": "nitch",
-      "url": "https://github.com/ssleert/nitch",
-      "description": "A incredibly fast system fetch written in nim.",
-      "language": "Nim"
-    },
-    {
-      "name": "ufetch",
-      "url": "https://gitlab.com/jschx/ufetch",
-      "description": "Tiny system info for Unix-like operating systems.",
-      "language": "Shell"
-    },
-    {
-      "name": "ramfetch",
-      "url": "https://codeberg.org/jahway603/ramfetch",
-      "description": "A fetch which displays memory info using /proc/meminfo.",
-      "language": "Shell"
-    },
-    {
-      "name": "inxi",
-      "url": "https://github.com/smxi/inxi",
-      "description": "A faster, powerful, full featured CLI system information tool.",
-      "language": "Perl"
-    },
-    {
-      "name": "yarsi",
-      "url": "https://github.com/LinuxNerdBTW/yarsi",
-      "description": "Yet another rust system info fetcher.",
-      "language": "Rust"
-    },
-    {
-      "name": "procfetch",
-      "url": "https://github.com/TanmayPatil105/procfetch",
-      "description": " A command-line system information utility.",
-      "language": "C++"
-    },
-    {
-      "name": "pridefetch",
-      "url": "https://github.com/cartoon-raccoon/pridefetch",
-      "description": "Neofetch but gay.",
-      "language": "Python"
-    },
-    {
       "name": "tinyfetch",
       "url": "https://github.com/beucismis/tinyfetch",
       "description": "Python and system information command-line fetch tool.",
@@ -464,22 +410,28 @@
       "language": "C"
     },
     {
-      "name": "xFetch",
-      "url": "https://gitlab.com/XDRwastaken/xFetch",
-      "description": "A simple fetch written in Rust.",
-      "language": "Rust"
-    },
-    {
       "name": "ufetch",
       "url": "https://github.com/tyroruyk/ufetch",
       "description": "System fetch tool written in Rust.",
       "language": "Rust"
     },
     {
-      "name": "gpufetch",
-      "url": "https://github.com/Dr-Noob/gpufetch",
-      "description": "Simple yet fancy GPU architecture fetching tool.",
-      "language": "C++"
+      "name": "ufetch",
+      "url": "https://gitlab.com/jschx/ufetch",
+      "description": "Tiny system info for Unix-like operating systems.",
+      "language": "Shell"
+    },
+    {
+      "name": "vfetch",
+      "url": "https://github.com/Lorago/vfetch",
+      "description": "A simple fetch tool for Linux written in Python.",
+      "language": "Python"
+    },
+    {
+      "name": "yarsi",
+      "url": "https://github.com/LinuxNerdBTW/yarsi",
+      "description": "Yet another rust system info fetcher.",
+      "language": "Rust"
     },
     {
       "name": "mfetch-macos",
@@ -506,9 +458,9 @@
       "language": "PHP"
     },
     {
-      "name": "pythonfetch",
-      "url": "https://github.com/beucismis/pythonfetch",
-      "description": "Python and system information command-line tool.",
+      "name": "tinyfetch",
+      "url": "https://github.com/beucismis/tinyfetch",
+      "description": "Python and system information command-line fetch tool.",
       "language": "Python"
     },
     {
@@ -516,12 +468,6 @@
       "url": "https://github.com/kiedtl/gfetch",
       "description": "A lightweight, fast Git fetch script written in POSIX sh.",
       "language": "Shell"
-    },
-    {
-      "name": "ghfetch",
-      "url": "https://github.com/bwac2517/ghfetch",
-      "description": "Neofetch, but for GitHub.",
-      "language": "TypeScript"
     },
     {
       "name": "onefetch",
