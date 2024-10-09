@@ -1,5 +1,5 @@
 {
-  "total": 83,
+  "total": 84,
   "tools": [
     {
       "name": "101fetch",
@@ -192,6 +192,12 @@
       "url": "https://github.com/kamui-fin/rfetch",
       "description": "A fast and minimal fetch program.",
       "language": "Rust"
+    },
+    {
+      "name": "richfetch",
+      "url": "https://github.com/Rizen54/richfetch",
+      "description": "A beautiful minimalistic fetch utility with a lot of dynamic features.",
+      "language": "Python"
     },
     {
       "name": "rsfetch",
