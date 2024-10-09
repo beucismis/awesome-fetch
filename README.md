@@ -53,6 +53,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
+- [richfetch](https://github.com/Rizen54/richfetch) - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
 - [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
