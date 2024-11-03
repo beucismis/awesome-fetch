@@ -1,5 +1,5 @@
 {
-  "total": 85,
+  "total": 88,
   "tools": [
     {
       "name": "101fetch",
@@ -41,6 +41,12 @@
       "name": "bfetch",
       "url": "https://github.com/NNBnh/bfetch",
       "description": "Dynamic fetch displayer that SuperB.",
+      "language": "Shell"
+    },
+    {
+      "name": "betterfetch",
+      "url": "https://github.com/sctech-tr/betterfetch",
+      "description": "betterfetch is a quick system information tool. ",
       "language": "Shell"
     },
     {
@@ -248,6 +254,12 @@
       "language": "Rust"
     },
     {
+      "name": "strlx",
+      "url": "https://github.com/stx3plus1/strlx",
+      "description": " A minimal and FAST system resource viewer in C.",
+      "language": "C"
+    },
+    {
       "name": "sysfex",
       "url": "https://github.com/mehedirm6244/sysfex",
       "description": "Another system information tool written in C++.",
@@ -306,6 +318,12 @@
       "url": "https://github.com/nidnogg/zeitfetch",
       "description": "Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X.",
       "language": "Rust"
+    },
+    {
+      "name": "zfetch",
+      "url": "https://github.com/emilydaemon/zfetch",
+      "description": "zfetch is a simple, fast, but pretty fetch script",
+      "language": "Shell"
     },
     {
       "name": "powerfetch",
