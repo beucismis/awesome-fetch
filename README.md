@@ -28,6 +28,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Simple system information tool written in Python `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive project information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
+- [betterfetch](https://github.com/sctech-tr/betterfetch) - betterfetch is a quick system information tool.  `Shell`
 - [brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
@@ -62,6 +63,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) -  A fast screenfetch - like tool. `Rust`
+- [strlx](https://github.com/stx3plus1/strlx) -  A minimal and FAST system resource viewer in C. `C`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
 - [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `Python`.
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
@@ -72,6 +74,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [wziumfecz](https://github.com/workonfire/wziumfecz) -  Just like neofetch but better! `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Rust`
 - [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
+- [zfetch](https://github.com/emilydaemon/zfetch) - zfetch is a simple, fast, but pretty fetch script `Shell`
 
 ### Windows Only
 
