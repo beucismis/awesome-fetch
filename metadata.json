@@ -1,5 +1,5 @@
 {
-  "total": 88,
+  "total": 89,
   "tools": [
     {
       "name": "101fetch",
@@ -120,6 +120,12 @@
       "url": "https://github.com/K4rakara/freshfetch",
       "description": "A fresh take on neofetch.",
       "language": "Rust"
+    },
+    {
+      "name": "gbfetch",
+      "url": "https://github.com/GabubuAvailable/gbfetch",
+      "description": "gabubu's fetch (less bloated hehe) forked from sfetch by speediegamer",
+      "language": "Shell"
     },
     {
       "name": "hayabusa",
