@@ -60,11 +60,13 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
 - [scalafetch](https://github.com/Phate6660/scalafetch) - Neofetch alternative in Scala. `Scala`
+- [scfetch](https://github.com/sctech-tr/scfetch) - the ultimate successor to neofetch and betterfetch. runs on windows, linux and macOS `Python`
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) -  A fast screenfetch - like tool. `Rust`
 - [strlx](https://github.com/stx3plus1/strlx) -  A minimal and FAST system resource viewer in C. `C`
+- [sxl](https://github.com/stx3plus1/sxl) - Minimal system information program. `C`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
 - [terminal-widgets](https://github.com/imegeek/terminal-widgets) - ✨ Shows system information as tiny widgets on terminal screen. `Python`.
 - [tfetch](https://github.com/EndOfLine-py/tfetch) - Tree view like fetch. `Python`
@@ -96,6 +98,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [ramfetch](https://codeberg.org/jahway603/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
+- [sfetch](https://github.com/speedie1337/sfetch) - speedie's stupid fetch for macOS and GNU/Linux `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
 - [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
