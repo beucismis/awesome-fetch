@@ -1,5 +1,5 @@
 {
-  "total": 89,
+  "total": 92,
   "tools": [
     {
       "name": "101fetch",
@@ -236,6 +236,12 @@
       "language": "Scala"
     },
     {
+      "name": "scfetch",
+      "url": "https://github.com/sctech-tr/scfetch",
+      "description": "the ultimate successor to neofetch and betterfetch. runs on windows, linux and macOS",
+      "language": "Python"
+    },
+    {
       "name": "screenFetch",
       "url": "https://github.com/KittyKatt/screenFetch",
       "description": "Fetches system/theme information in terminal for Linux desktop screenshots.",
@@ -263,6 +269,12 @@
       "name": "strlx",
       "url": "https://github.com/stx3plus1/strlx",
       "description": " A minimal and FAST system resource viewer in C.",
+      "language": "C"
+    },
+    {
+      "name": "sxl",
+      "url": "https://github.com/stx3plus1/sxl",
+      "description": "Minimal system information program.",
       "language": "C"
     },
     {
@@ -413,6 +425,12 @@
       "name": "sfetch",
       "url": "https://github.com/Frolleks/sfetch",
       "description": "A simple system fetch CLI tool written in Shell.",
+      "language": "Shell"
+    },
+    {
+      "name": "sfetch",
+      "url": "https://github.com/speedie1337/sfetch",
+      "description": "speedie's stupid fetch for macOS and GNU/Linux",
       "language": "Shell"
     },
     {
