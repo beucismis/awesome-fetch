@@ -1,5 +1,5 @@
 {
-  "total": 92,
+  "total": 93,
   "tools": [
     {
       "name": "101fetch",
@@ -530,9 +530,21 @@
       "language": "Lua"
     },
     {
+      "name": "mtgfetch",
+      "url": "https://github.com/monteluka/mtgfetch",
+      "description": "Magic: The Gathering card information fetcher",
+      "language": "C++"
+    },
+    {
       "name": "pwy",
       "url": "https://github.com/egargo/pwygit",
       "description": "A simple weather tool.",
+      "language": "Python"
+    },
+    {
+      "name": "richweather",
+      "url": "https://github.com/Rizen54/richweather",
+      "description": "🌧️ A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names.",
       "language": "Python"
     },
     {
@@ -545,12 +557,6 @@
       "name": "xfcfet",
       "url": "https://github.com/xfcisco/xfcfet",
       "description": "My own version of neofetch that includes sys info, spotify info, and ascii picture.",
-      "language": "Python"
-    },
-    {
-      "name": "richweather",
-      "url": "https://github.com/Rizen54/richweather",
-      "description": "🌧️ A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names.",
       "language": "Python"
     }
   ]
