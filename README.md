@@ -127,7 +127,8 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 ## Miscellaneous
 
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod. `Lua`
+- [mtgfetch](https://github.com/monteluka/mtgfetch) - Magic: The Gathering card information fetcher `C++`
 - [pwy](https://github.com/egargo/pwygit) - A simple weather tool. `Python`
+- [richweather](https://github.com/Rizen54/richweather) - 🌧️ A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names. `Python`
 - [wfetch](https://github.com/igormako/wfetch) - A small (~100 lines of code) terminal weather fetch tool written in Python. `Python`
 - [xfcfet](https://github.com/xfcisco/xfcfet) - My own version of neofetch that includes sys info, spotify info, and ascii picture. `Python`
-- [richweather](https://github.com/Rizen54/richweather) - 🌧️ A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names. `Python`
