@@ -1,5 +1,5 @@
 {
-  "total": 93,
+  "total": 92,
   "tools": [
     {
       "name": "101fetch",
@@ -425,12 +425,6 @@
       "name": "sfetch",
       "url": "https://github.com/Frolleks/sfetch",
       "description": "A simple system fetch CLI tool written in Shell.",
-      "language": "Shell"
-    },
-    {
-      "name": "sfetch",
-      "url": "https://github.com/speedie1337/sfetch",
-      "description": "speedie's stupid fetch for macOS and GNU/Linux",
       "language": "Shell"
     },
     {
