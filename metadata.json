@@ -1,5 +1,5 @@
 {
-  "total": 92,
+  "total": 91,
   "tools": [
     {
       "name": "101fetch",
@@ -84,12 +84,6 @@
       "url": "https://github.com/NoSequel/efetch",
       "description": "No description.",
       "language": "C"
-    },
-    {
-      "name": "erlfetch",
-      "url": "https://github.com/vereis/erlfetch",
-      "description": "A screenfetch / neofetch clone written in Erlang/OTP.",
-      "language": "Erlang"
     },
     {
       "name": "fastfetch",
