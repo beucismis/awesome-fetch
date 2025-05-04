@@ -35,7 +35,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals. `Shell`
 - [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. `Shell`
 - [efetch](https://github.com/NoSequel/efetch) - No description. `C`
-- [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in c. `C`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
