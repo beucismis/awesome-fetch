@@ -6,3 +6,4 @@
 - [fsi](https://github.com/MustafaSalih1993/fsi) - FSI (Fetch System Info) cli tool written in Rust. `Rust`
 - [sfetch](https://github.com/speedie1337/sfetch) - speedie's stupid fetch for macOS and GNU/Linux `Shell`
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
+- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
