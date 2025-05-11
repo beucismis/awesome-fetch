@@ -1,4 +1,4 @@
-name: Links
+name: Main Workflow
 
 on:
   repository_dispatch:
