@@ -1,10 +1,10 @@
 # Awesome Fetch
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbeucismis%2Fawesome-fetch%2Fraw%2Fmain%2Fmetadata.json&query=%24.total&label=total%20tool)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=total)
 ![GitHub License](https://img.shields.io/github/license/beucismis/awesome-fetch)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/links.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/main.yml)
 
-Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `metadata.json` file is updated after commit. You can request this file in [raw](https://beucismis.github.io/awesome-fetch/metadata.json) format and use it like a static API.
+Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `data.json` file is updated after commit. You can request this file in [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/data.json) format and use it like a static API.
 
 ## Contents
 
