@@ -1,5 +1,5 @@
 {
-  "total": 91,
+  "total": 90,
   "tools": [
     {
       "name": "101fetch",
@@ -102,12 +102,6 @@
       "url": "https://github.com/KikyTokamuro/fetch.scm",
       "description": "System information fetcher written in GNU Guile Scheme.",
       "language": "Guile"
-    },
-    {
-      "name": "flexfetch",
-      "url": "https://github.com/matyklug18/Flexfetch",
-      "description": "A fast and generic fetch.",
-      "language": "C"
     },
     {
       "name": "freshfetch",
