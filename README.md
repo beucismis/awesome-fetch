@@ -38,7 +38,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in c. `C`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
-- [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
 - [gbfetch](https://github.com/GabubuAvailable/gbfetch) - gabubu's fetch (less bloated hehe) forked from sfetch by speediegamer `Shell`
 - [hayabusa](https://github.com/Notarin/hayabusa) - A daemonized fetch that is fully featured as well as fast. `Rust`
