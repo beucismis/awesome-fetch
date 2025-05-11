@@ -1,6 +1,6 @@
 # Awesome Fetch
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=total)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fdata.json&query=total&label=tools)
 ![GitHub License](https://img.shields.io/github/license/beucismis/awesome-fetch)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/main.yml)
 
