@@ -7,10 +7,10 @@ on:
     - cron: "00 18 * * *"
   push:
     branches:
-    - main
+      - main
   pull_request:
     branches:
-    - main
+      - main
 
 jobs:
   link-checker:
@@ -31,21 +31,21 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue
-  
-  metadata-builder:
+
+  readme-to-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-    
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
-      
-      - name: Build Metadata
-        run: python scripts/metadata.py README.md metadata.json
-      
+
+      - name: Run Script
+        run: python scripts/readme_to_data.py README.md data.json
+
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v5.0.0
         with:
-          commit_message: Update metadata.json
+          commit_message: Update data.json
