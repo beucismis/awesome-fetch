@@ -45,7 +45,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - Neofetch with LGBTQ+ pride flags. `Python`
 - [info.sh](https://github.com/bc1bb/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
 - [kiwifetch](https://github.com/Bitskiwi/kiwifetch) - A simple system info script like neofetch. `Shell`
-- [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 - [mfetch](https://github.com/rachelambda/mfetch) - Minimalist fetch. `Shell`
 - [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. `Shell`
