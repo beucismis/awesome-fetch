@@ -140,6 +140,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [gfetch](https://github.com/kiedtl/gfetch) - A lightweight, fast Git fetch script written in POSIX sh. `Shell`
 - [ghfetch](https://github.com/SafarSoFar/ghfetch) - A neofetch-like utility to fetch GitHub info right in terminals. `Rust`
 - [gitfetch](https://github.com/FabricSoul/gitfetch) - A command-line GitHub contribution visualization tool written in Rust inspired by Neofetch. `Rust`
+- [githubfetch](https://github.com/isa-programmer/githubfetch) - Github profile information on your terminal. `Python`
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal. `Rust`
 
 ## Miscellaneous
