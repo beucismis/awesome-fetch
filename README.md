@@ -101,7 +101,6 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
 - [richfetch](https://github.com/Rizen54/richfetch) - A richly customisable fetch util which provides a ton lot of information. `Python`
-- [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [so-sysinfo](https://github.com/solaaradotnet/so-sysinfo) - A Rust-made fetch-like program with a twist on presentation (and some personal branding). `Rust`

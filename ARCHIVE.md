@@ -8,3 +8,4 @@
 - [erlfetch](https://github.com/vereis/erlfetch) - A screenfetch / neofetch clone written in Erlang/OTP. `Erlang`
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
+- [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
