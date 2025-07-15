@@ -77,10 +77,11 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Rust`
 - [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
 - [zfetch](https://github.com/emilydaemon/zfetch) - zfetch is a simple, fast, but pretty fetch script `Shell`
+- [horizonfetch](https://github.com/horizonwiki/horizonfetch) - HorizonFetch is a fetch written in Rust (Linux version will be ready soon, currently Windows only) `Rust`
+- [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 
 ### Windows Only
 
-- [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
 
 ### GNU/Linux Only
@@ -96,6 +97,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [koghi](https://github.com/if-not-nil/koghi) - A system fetch tool in Go. `Go`
 - [mycofetch](https://github.com/orest58008/mycofetch) - Mycofetch is fast and flexible system information tool written in OCaml. `OCaml`
 - [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts. `Shell`
+- [NerdFetch-C](https://github.com/AnmiTaliDev/NerdFetch-c) - Fetch inspired by [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch), but written in C. `C`
 - [nitch](https://github.com/ssleert/nitch) - A incredibly fast system fetch written in nim. `Nim`
 - [pokemon-icat](https://github.com/aflaag/pokemon-icat) - Shows any Pokémon sprite in your terminal. `Python`
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
