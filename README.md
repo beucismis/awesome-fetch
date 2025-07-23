@@ -130,6 +130,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool. `C`
 - [ifetch](https://github.com/deivshon/ifetch) - Fetch tool for Linux systems to display network interface information. `C`
 - [ramfetch](https://codeberg.org/jahway603/ramfetch) - A fetch which displays memory info using /proc/meminfo. `Shell`
+- [mfetch](https://github.com/xdearboy/mfetch) - memory-focused system info tool written in Rust for linux. `Rust`
 
 ## Programing Language
 
