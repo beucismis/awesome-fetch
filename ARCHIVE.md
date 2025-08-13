@@ -9,3 +9,4 @@
 - [flexfetch](https://github.com/matyklug18/Flexfetch) - A fast and generic fetch. `C`
 - [lovefetch](https://github.com/oppsec/lovefetch) - A CLI System Information Tool. `Python`
 - [sf](https://github.com/mauro-balades/sf) - A small system information fetcher. `Shell`
+- [githubfetch](https://github.com/isa-programmer/githubfetch) - Github profile information on your terminal. `Python`
