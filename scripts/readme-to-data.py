@@ -1,8 +1,6 @@
-#!/usr/bin/python3
-
+import json
 import re
 import sys
-import json
 from dataclasses import asdict, dataclass
 
 
