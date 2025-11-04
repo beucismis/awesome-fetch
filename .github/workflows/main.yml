@@ -1,4 +1,4 @@
-name: Main Workflow
+name: Main
 
 on:
   repository_dispatch:
