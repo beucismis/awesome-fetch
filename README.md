@@ -115,6 +115,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
 - [richfetch](https://github.com/Rizen54/richfetch) - A richly customisable fetch util which provides a ton lot of information. `Python`
+- [scr0ll](https://codeberg.org/ldm/scr0ll) - Some bash fetch scripts with scroll effect. (NOscr0ll version also available) `Shell`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [so-sysinfo](https://github.com/solaaradotnet/so-sysinfo) - A Rust-made fetch-like program with a twist on presentation (and some personal branding). `Rust`
