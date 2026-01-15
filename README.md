@@ -162,6 +162,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 ## Miscellaneous
 
 - [countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country. `Rust`
+- [fetchfetch](https://github.com/TheBicPen/fetchfetch) - A tool to fetch info about the fetches installed on your system. `Rust`
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod. `Lua`
 - [kitget](https://github.com/adamperkowski/kitget) - Display and customize cat images in your terminal. `Rust`
 - [mtgfetch](https://github.com/monteluka/mtgfetch) - Magic: The Gathering card information fetcher `C++`
