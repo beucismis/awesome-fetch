@@ -38,6 +38,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive directory information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
 - [bfetch](https://github.com/xlsft/bfetch) - Fast system fetch written in brainf**k. `Brainfuck`
+- [blaeckfetch](https://github.com/gustafeden/blaeckfetch) - A fast, minimalist system fetch for your terminal. `Rust`
 - [betterfetch](https://github.com/sctech-tr/betterfetch) - Betterfetch is a quick system information tool. `Shell`
 - [brofetch](https://github.com/ufuayk/brofetch) - A detailed and fun command-line system information tool. `Shell`
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
@@ -66,7 +67,6 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
 - [richfetch](https://github.com/Rizen54/richfetch) - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
-- [rsfetch](https://github.com/gustafeden/rsfetch) - Fast system fetch with retro console-style boot animation mode. `Rust`
 - [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
 - [rustor](https://github.com/Evren-os/rustor) - A blazing fast fetch tool written in Rust. `Rust`

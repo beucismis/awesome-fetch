@@ -45,6 +45,12 @@
       "programing_language": "Brainfuck"
     },
     {
+      "name": "blaeckfetch",
+      "source_url": "https://github.com/gustafeden/blaeckfetch",
+      "description": "A fast, minimalist system fetch for your terminal.",
+      "programing_language": "Rust"
+    },
+    {
       "name": "betterfetch",
       "source_url": "https://github.com/sctech-tr/betterfetch",
       "description": "Betterfetch is a quick system information tool.",
@@ -210,12 +216,6 @@
       "name": "rsfetch",
       "source_url": "https://github.com/Phate6660/rsfetch",
       "description": "A WIP rewrite of rsfetch from scratch.",
-      "programing_language": "Rust"
-    },
-    {
-      "name": "rsfetch",
-      "source_url": "https://github.com/gustafeden/rsfetch",
-      "description": "Fast system fetch with retro console-style boot animation mode.",
       "programing_language": "Rust"
     },
     {
