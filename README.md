@@ -115,6 +115,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [pokemon-icat](https://github.com/aflaag/pokemon-icat) - Shows any Pokémon sprite in your terminal. `Python`
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
+- [qfetch](https://git.sr.ht/~lost/qfetch) - C implementation of pfetch written to be quick. `C`
 - [richfetch](https://github.com/Rizen54/richfetch) - A richly customisable fetch util which provides a ton lot of information. `Python`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
