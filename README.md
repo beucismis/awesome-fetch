@@ -44,7 +44,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility. `Go`
 - [cutefetch](https://github.com/cybardev/cutefetch) - Tiny coloured fetch script with cute little animals. `Shell`
 - [diyfetch](https://github.com/info-mono/diyfetch) - The ultimate fetch tool template. `Shell`
-- [efetch](https://github.com/NoSequel/efetch) - No description. `C`
+- [efetch](https://github.com/NoSequel/efetch) - Is a system information tool written in C++. `C`
 - [exfetch](http://codeberg.org/izder456/exfetch) - Shell extensible fetching program. `Crystal`
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C. `C`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
@@ -66,16 +66,17 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
 - [richfetch](https://github.com/Rizen54/richfetch) - A beautiful minimalistic fetch utility with a lot of dynamic features. `Python`
+- [scr0ll](https://codeberg.org/ldm/scr0ll) - Lame Bash fetch scripts with scroll effect. `Shell`
 - [rsfetch](https://github.com/Phate6660/rsfetch) - A WIP rewrite of rsfetch from scratch. `Rust`
 - [rsftch](https://github.com/charklie/rsftch) - Lightning fast hardware fetch written in rust. `Rust`
 - [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system fetching tool which is made in bash script. `Shell`
 - [rustor](https://github.com/Evren-os/rustor) - A blazing fast fetch tool written in Rust. `Rust`
 - [scalafetch](https://github.com/Phate6660/scalafetch) - Neofetch alternative in Scala. `Scala`
-- [scfetch](https://github.com/sctech-tr/scfetch) - the ultimate successor to neofetch and betterfetch. runs on windows, linux and macOS `Python`
+- [scfetch](https://github.com/sctech-tr/scfetch) - Minimal fetch program written in Python for Linux, Mac and Windows. `Python`
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots. `Shell`
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
-- [smilefetch](https://github.com/ashedapuppy/smilefetch) - A fast screenfetch - like tool. `Rust`
+- [smilefetch](https://github.com/ashedapuppy/smilefetch) - A system info tool written in Rust inspired by neofetch. `Rust`
 - [strlx](https://github.com/stx3plus1/strlx) - A minimal and FAST system resource viewer in C. `C`
 - [sxl](https://github.com/stx3plus1/sxl) - Minimal system information program. `C`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
@@ -89,12 +90,12 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [wziumfecz](https://github.com/workonfire/wziumfecz) - Just like neofetch but better. `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Rust`
 - [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
-- [zfetch](https://github.com/emilydaemon/zfetch) - zfetch is a simple, fast, but pretty fetch script `Shell`
-- [horizonfetch](https://github.com/horizonwiki/horizonfetch) - HorizonFetch is a fetch written in Rust (Linux version will be ready soon, currently Windows only) `Rust`
+- [zfetch](https://github.com/emilydaemon/zfetch) - zfetch is a simple, fast, but pretty fetch script. `Shell`
 - [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 
 ### Windows Only
 
+- [horizonfetch](https://github.com/horizonwiki/horizonfetch) - Forged in Rust, shaped by your style. `Rust`
 - [winfetch](https://github.com/lptstr/winfetch) - A command-line system information utility written in PowerShell. Like Neofetch, but for Windows. `PowerShell`
 
 ### GNU/Linux Only
@@ -167,7 +168,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [fetchfetch](https://github.com/TheBicPen/fetchfetch) - A tool to fetch info about the fetches installed on your system. `Rust`
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod. `Lua`
 - [kitget](https://github.com/adamperkowski/kitget) - Display and customize cat images in your terminal. `Rust`
-- [mtgfetch](https://github.com/monteluka/mtgfetch) - Magic: The Gathering card information fetcher `C++`
+- [mtgfetch](https://github.com/monteluka/mtgfetch) - Magic: The Gathering card information fetcher. `C++`
 - [pwy](https://github.com/egargo/pwygit) - A simple weather tool. `Python`
 - [qrcodefetch](https://codeberg.org/ldm/qrcodefetch) - Qrcode fetch bash script. `Shell`
 - [richweather](https://github.com/Rizen54/richweather) - A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names. `Python`
