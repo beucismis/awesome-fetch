@@ -63,6 +63,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [noorfetch](https://codeberg.org/limforge/noorfetch) - Blazingly fast ( ~1 ms ) and cool minimalistic fetch, like rxfetch. `Rust`
 - [pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A pretty system information tool written in Rust. `Rust`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
+- [pokestats](https://github.com/mdatz/pokestats) - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
