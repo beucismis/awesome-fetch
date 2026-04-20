@@ -63,7 +63,6 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [noorfetch](https://codeberg.org/limforge/noorfetch) - Blazingly fast ( ~1 ms ) and cool minimalistic fetch, like rxfetch. `Rust`
 - [pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A pretty system information tool written in Rust. `Rust`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
-- [pokestats](https://github.com/mdatz/pokestats) - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
 - [profetch](https://github.com/RustemB/profetch) - System information fetcher written in GNU/Prolog. `Prolog`
 - [reifetch](https://github.com/OkaVatti/reifetch) - A light fetch script, based on Neofetch, for Linux, macOS, and BSD. `Shell`
 - [rfetch](https://github.com/kamui-fin/rfetch) - A fast and minimal fetch program. `Rust`
@@ -178,3 +177,4 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [webfetch](https://github.com/ensomnatt/webfetch) - Webfetch is a program that displays your system information on the web, running as a systemd unit. `Go` 
 - [wfetch](https://github.com/igormako/wfetch) - A small (~100 lines of code) terminal weather fetch tool written in Python. `Python`
 - [xfcfet](https://github.com/xfcisco/xfcfet) - My own version of neofetch that includes sys info, spotify info, and ascii picture. `Python`
+- [pokestats](https://github.com/mdatz/pokestats) - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
