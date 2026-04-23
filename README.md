@@ -170,6 +170,7 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [gmod-fetch](https://github.com/garryspins/gmod-fetch) - GFetch is a neofetch-clone for Garry's Mod. `Lua`
 - [kitget](https://github.com/adamperkowski/kitget) - Display and customize cat images in your terminal. `Rust`
 - [mtgfetch](https://github.com/monteluka/mtgfetch) - Magic: The Gathering card information fetcher. `C++`
+- [pokestats](https://github.com/mdatz/pokestats) - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
 - [pwy](https://github.com/egargo/pwygit) - A simple weather tool. `Python`
 - [qrcodefetch](https://codeberg.org/ldm/qrcodefetch) - Qrcode fetch bash script. `Shell`
 - [richweather](https://github.com/Rizen54/richweather) - A customizable beautiful and colorful weather fetch utility accessible with pin codes or city names. `Python`
@@ -177,4 +178,3 @@ You can also upload your command outputs to [FetchBin](https://fetchbin.beucismi
 - [webfetch](https://github.com/ensomnatt/webfetch) - Webfetch is a program that displays your system information on the web, running as a systemd unit. `Go` 
 - [wfetch](https://github.com/igormako/wfetch) - A small (~100 lines of code) terminal weather fetch tool written in Python. `Python`
 - [xfcfet](https://github.com/xfcisco/xfcfet) - My own version of neofetch that includes sys info, spotify info, and ascii picture. `Python`
-- [pokestats](https://github.com/mdatz/pokestats) - Terminal fetch tool for viewing pokemon stats and abilities. `Shell`
