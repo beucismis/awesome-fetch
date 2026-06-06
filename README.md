@@ -6,8 +6,6 @@
 
 Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `data.json` file is updated after commit. You can request this file in [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/data.json) format and use it like a static API.
 
-You can also upload your command outputs to [FetchBin](https://fetchbin.beucismis.org).
-
 ### Communities
 
 - https://reddit.com/r/sysfetch/
