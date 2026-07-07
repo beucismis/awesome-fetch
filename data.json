@@ -189,6 +189,12 @@
       "programing_language": "Rust"
     },
     {
+      "name": "pftch",
+      "source_url": "https://codeberg.org/mateowoetam/pftch",
+      "description": "Single-file POSIX system fetcher.",
+      "programing_language": "Shell"
+    },
+    {
       "name": "Pokefetch",
       "source_url": "https://github.com/rmccorm4/Pokefetch",
       "description": "Command-line tool similar to neofetch for looking up pokemon in the terminal.",
