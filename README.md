@@ -120,6 +120,7 @@ Command-line fetch tools for system/other information. Operating system, kernel,
 - [qfetch](https://git.sr.ht/~lost/qfetch) - C implementation of pfetch written to be quick. `C`
 - [richfetch](https://github.com/Rizen54/richfetch) - A richly customisable fetch util which provides a ton lot of information. `Python`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
+- [slackfetch](https://github.com/r1w1s1/slackfetch) - Minimal system information utility for Slackware. `Shell`
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [so-sysinfo](https://github.com/solaaradotnet/so-sysinfo) - A Rust-made fetch-like program with a twist on presentation (and some personal branding). `Rust`
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
