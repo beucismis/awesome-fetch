@@ -2,9 +2,8 @@ site_name: Awesome Fetch
 theme:
   name: terminal
   palette: dark
-repo_name: beucismis/awesome-fetch
-repo_url: https://github.com/beucismis/awesome-fetch
 nav:
   - Home: index.md
+  - Source Code: https://github.com/beucismis/awesome-fetch
   - License: LICENSE.md
   - Contributing: CONTRIBUTING.md
