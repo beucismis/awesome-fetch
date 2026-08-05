@@ -1,0 +1,22 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: mkdir docs
+      - run: cp README.md docs/index.md
+      - run: cp LICENSE docs/LICENSE.md
+      - run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
+      - run: mkdocs gh-deploy --force
