@@ -1,7 +1,10 @@
 site_name: Awesome Fetch
+theme:
+  name: terminal
+  palette: dark
 repo_name: beucismis/awesome-fetch
 repo_url: https://github.com/beucismis/awesome-fetch
 nav:
   - Home: index.md
-  - License: LICENSE.txt
+  - License: LICENSE.md
   - Contributing: CONTRIBUTING.md
