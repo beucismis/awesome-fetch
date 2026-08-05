@@ -1,16 +1,20 @@
 # Awesome Fetch
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fdata.json&query=total&label=tools)
-![GitHub License](https://img.shields.io/github/license/beucismis/awesome-fetch)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beucismis/awesome-fetch/main.yml)
+![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fdata.json&query=total&label=Total)
 
-Command-line fetch tools for system/other information. Operating system, kernel, CPU, GPU, memory info and more. Contributions are most welcome, please adhere to the [contributing guidelines](CONTRIBUTING.md). Also, the `data.json` file is updated after commit. You can request this file in [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/data.json) format and use it like a static API.
+A curated collection of command-line fetch tools. Discover tools that display your OS, kernel, uptime, packages, shell, DE/WM, CPU, GPU, memory, disk usage, and much more directly in your terminal.
 
-### Communities
+Contributions are welcome; please follow the [contributing guidelines](CONTRIBUTING.md).
 
-- https://reddit.com/r/sysfetch/
-- https://reddit.com/r/unixporn/
-- https://reddit.com/r/commandline/
+### Data Static API
+
+The `data.json` file updates automatically with each commit, allowing you to request its [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/data.json) format and use it as a static API.
+
+### Related Communities
+
+- [r/sysfetch](https://reddit.com/r/sysfetch)
+- [r/unixporn](https://reddit.com/r/unixporn)
+- [r/commandline](https://reddit.com/r/commandline)
 
 ## Contents
 
