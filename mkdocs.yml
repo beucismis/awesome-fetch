@@ -3,5 +3,5 @@ repo_name: beucismis/awesome-fetch
 repo_url: https://github.com/beucismis/awesome-fetch
 nav:
   - Home: index.md
-  - License: LICENSE.md
+  - License: LICENSE.txt
   - Contributing: CONTRIBUTING.md
