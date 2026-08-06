@@ -112,6 +112,7 @@ The `data.json` file updates automatically with each commit, allowing you to req
 - [customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget. `C++`
 - [dfetch](https://github.com/David17c/Dfetch) - A clean and practical system information tool. `Go`
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
+- [Haxefetch](https://github.com/ACoolioDude/Haxefetch) - Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on. `Haxe`
 - [gotcha](https://github.com/yehorovye/gotcha) - Pretty system fetch. `Go`
 - [koghi](https://github.com/if-not-nil/koghi) - A system fetch tool in Go. `Go`
 - [mycofetch](https://github.com/orest58008/mycofetch) - Mycofetch is fast and flexible system information tool written in OCaml. `OCaml`
