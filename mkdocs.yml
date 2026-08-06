@@ -5,8 +5,13 @@ repo_url: https://github.com/beucismis/awesome-fetch
 theme:
   name: terminal
   palette: dark
+  features:
+    - navigation.top.cursor_animation.hide
+    - navigation.top.search_button.hide
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Source Code: https://github.com/beucismis/awesome-fetch
-  - Contributing: CONTRIBUTING.md
+  - Contributing: contributing.md
   - License: https://github.com/beucismis/awesome-fetch/blob/main/LICENSE.txt
