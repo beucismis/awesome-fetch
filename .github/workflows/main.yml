@@ -38,7 +38,7 @@ jobs:
         with:
           python-version: "3.x"
       - name: Run Script
-        run: python scripts/readme-to-data.py README.md data.json
+        run: python data_generator.py README.md data.json
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v5.0.0
         with:
