@@ -18,6 +18,5 @@ jobs:
       - run: pip install mkdocs mkdocs-terminal
       - run: mkdir docs
       - run: cp README.md docs/index.md
-      - run: cp LICENSE.txt docs/LICENSE.md
       - run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
       - run: mkdocs gh-deploy --force
