@@ -19,4 +19,6 @@ jobs:
       - run: mkdir docs
       - run: cp README.md docs/index.md
       - run: cp CONTRIBUTING.md docs/contributing.md
+      - run: mkdir -p docs/stylesheets
+      - run: cp extra.css docs/stylesheets/extra.css
       - run: mkdocs gh-deploy --force
