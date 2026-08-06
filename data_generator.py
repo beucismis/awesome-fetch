@@ -1,7 +1,22 @@
+"""
+This script parses a Markdown file (typically README.md) to extract a list of tools
+formatted with a specific Markdown syntax, and exports the extracted data into a structured JSON file.
+
+It expects two command-line arguments:
+1. The path to the input README.md file.
+2. The path to the output data.json file.
+
+The expected Markdown format for each tool is:
+- [Tool Name](Source URL) - Description `Programming Language`
+"""
+
 import json
 import re
 import sys
 from dataclasses import asdict, dataclass
+
+README_FILE_PATH = sys.argv[1]
+DATA_FILE_PATH = sys.argv[2]
 
 
 @dataclass
@@ -12,14 +27,11 @@ class Tool:
     programing_language: str
 
 
-README_FILE_PATH = sys.argv[1]
-DATA_FILE_PATH = sys.argv[2]
-
 # Regex pattern to match tools in the README file
 # Example format: "- [Name](Source URL) - Description `Programing Language`"
 pattern = r"-\s\[(.*?)\]\((.*?)\)\s-\s(.*?)\s\`([^\`]+)\`"
 
-with open(README_FILE_PATH, "r", encoding="utf-8") as readme_file:
+with open(README_FILE_PATH, encoding="utf-8") as readme_file:
     matches = re.findall(pattern, readme_file.read())
 
 tools = [asdict(Tool(*match)) for match in matches]
