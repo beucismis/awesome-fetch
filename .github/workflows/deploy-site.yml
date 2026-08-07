@@ -24,7 +24,7 @@ jobs:
           cp README.md docs/index.md
           cp CONTRIBUTING.md docs/contributing.md
           mkdir -p docs/stylesheets
-          cp extra.css docs/stylesheets/extra.css
+          cp site/extra.css docs/stylesheets/extra.css
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy -d site/ --force
