@@ -27,4 +27,4 @@ jobs:
           cp site/extra.css docs/stylesheets/extra.css
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy -f site/mkdocs.yml --force
+        run: mkdocs gh-deploy -f site/mkdocs.yml -d docs/ --force
