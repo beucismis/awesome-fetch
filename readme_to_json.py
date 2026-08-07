@@ -4,7 +4,7 @@ formatted with a specific Markdown syntax, and exports the extracted data into a
 
 It expects two command-line arguments:
 1. The path to the input README.md file.
-2. The path to the output data.json file.
+2. The path to the output api.json file.
 
 The expected Markdown format for each tool is:
 - [Tool Name](Source URL) - Description `Programming Language`
