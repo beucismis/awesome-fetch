@@ -6,9 +6,9 @@ A curated collection of command-line fetch tools. Discover tools that display yo
 
 Contributions are welcome; please follow the [contributing guidelines](CONTRIBUTING.md).
 
-### Data Static API
+### Static API
 
-The `data.json` file updates automatically with each commit, allowing you to request its [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/data.json) format and use it as a static API.
+The `api.json` file updates automatically with each commit, allowing you to request its [raw](https://raw.githubusercontent.com/beucismis/awesome-fetch/refs/heads/main/api.json) format and use it as a static API.
 
 ### Related Communities
 
