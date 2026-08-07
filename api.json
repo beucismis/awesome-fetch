@@ -179,7 +179,7 @@
     {
       "name": "noorfetch",
       "source_url": "https://codeberg.org/limforge/noorfetch",
-      "description": "Blazingly fast ( ~1 ms ) and cool minimalistic fetch, like rxfetch.",
+      "description": "Blazingly fast (~1 ms) and cool minimalistic fetch, like rxfetch.",
       "programing_language": "Rust"
     },
     {
@@ -293,7 +293,7 @@
     {
       "name": "strlx",
       "source_url": "https://github.com/stx3plus1/strlx",
-      "description": "A minimal and FAST system resource viewer in C.",
+      "description": "A minimal and fast system resource viewer in C.",
       "programing_language": "C"
     },
     {
@@ -371,7 +371,7 @@
     {
       "name": "zfetch",
       "source_url": "https://github.com/emilydaemon/zfetch",
-      "description": "zfetch is a simple, fast, but pretty fetch script.",
+      "description": "This is a simple, fast, but pretty fetch script.",
       "programing_language": "Shell"
     },
     {
@@ -473,7 +473,7 @@
     {
       "name": "NerdFetch-C",
       "source_url": "https://github.com/AnmiTaliDev/NerdFetch-c",
-      "description": "Fetch inspired by [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch), but written in C.",
+      "description": "Fetch inspired by nerdfetch, but written in C.",
       "programing_language": "C"
     },
     {
@@ -581,13 +581,13 @@
     {
       "name": "mfetch-macos",
       "source_url": "https://github.com/TechWiz-3/mfetch-macos",
-      "description": "Minimalist fetch (forked and modified for mac OS).",
+      "description": "Minimalist fetch (forked and modified for MacOS).",
       "programing_language": "Shell"
     },
     {
       "name": "vfetch",
       "source_url": "https://github.com/carlosqsilva/vfetch",
-      "description": "System fetch written in vlang.",
+      "description": "System fetch written in Vlang.",
       "programing_language": "V"
     },
     {
