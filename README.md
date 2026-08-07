@@ -1,6 +1,6 @@
 # Awesome Fetch
 
-![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fdata.json&query=total&label=Total)
+![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbeucismis%2Fawesome-fetch%2Frefs%2Fheads%2Fmain%2Fapi.json&query=total&label=Total)
 
 A curated collection of command-line fetch tools. Discover tools that display your OS, kernel, uptime, packages, shell, DE/WM, CPU, GPU, memory, disk usage, and much more directly in your terminal.
 
@@ -62,7 +62,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [mfetch](https://github.com/rachelambda/mfetch) - Minimalist fetch. `Shell`
 - [myfetch](https://github.com/Pippadi/myfetch) - My neofetch-like program. `Shell`
 - [neowofetch](https://github.com/hykilpikonna/hyfetch#running-updated-original-neofetch) - An updated, actively maintained fork of neofetch inside the HyFetch repo. `Shell`
-- [noorfetch](https://codeberg.org/limforge/noorfetch) - Blazingly fast ( ~1 ms ) and cool minimalistic fetch, like rxfetch. `Rust`
+- [noorfetch](https://codeberg.org/limforge/noorfetch) - Blazingly fast (~1 ms) and cool minimalistic fetch, like rxfetch. `Rust`
 - [pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A pretty system information tool written in Rust. `Rust`
 - [pftch](https://codeberg.org/mateowoetam/pftch) - Single-file POSIX system fetcher. `Shell`
 - [Pokefetch](https://github.com/rmccorm4/Pokefetch) - Command-line tool similar to neofetch for looking up pokemon in the terminal. `Python`
@@ -81,7 +81,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) - A system info tool written in Rust inspired by neofetch. `Rust`
-- [strlx](https://github.com/stx3plus1/strlx) - A minimal and FAST system resource viewer in C. `C`
+- [strlx](https://github.com/stx3plus1/strlx) - A minimal and fast system resource viewer in C. `C`
 - [sxl](https://github.com/stx3plus1/sxl) - Minimal system information program. `C`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
 - [terminal-widgets](https://github.com/imegeek/terminal-widgets) - Shows system information as tiny widgets on terminal screen. `Python`.
@@ -94,7 +94,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [wziumfecz](https://github.com/workonfire/wziumfecz) - Just like neofetch but better. `Shell`
 - [yafetch](https://github.com/yrwq/yafetch) - Yet another fetch. `Rust`
 - [zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous sysinfo, compatible with Windows, Linux, BSD and Mac OS X. `Rust`
-- [zfetch](https://github.com/emilydaemon/zfetch) - zfetch is a simple, fast, but pretty fetch script. `Shell`
+- [zfetch](https://github.com/emilydaemon/zfetch) - This is a simple, fast, but pretty fetch script. `Shell`
 - [powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool. `PowerShell`
 
 ### Windows Only
@@ -117,7 +117,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [koghi](https://github.com/if-not-nil/koghi) - A system fetch tool in Go. `Go`
 - [mycofetch](https://github.com/orest58008/mycofetch) - Mycofetch is fast and flexible system information tool written in OCaml. `OCaml`
 - [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch) - A POSIX \*nix fetch script using Nerdfonts. `Shell`
-- [NerdFetch-C](https://github.com/AnmiTaliDev/NerdFetch-c) - Fetch inspired by [NerdFetch](https://codeberg.org/thatonecalculator/NerdFetch), but written in C. `C`
+- [NerdFetch-C](https://github.com/AnmiTaliDev/NerdFetch-c) - Fetch inspired by nerdfetch, but written in C. `C`
 - [nitch](https://github.com/ssleert/nitch) - A incredibly fast system fetch written in nim. `Nim`
 - [pokemon-icat](https://github.com/aflaag/pokemon-icat) - Shows any Pokémon sprite in your terminal. `Python`
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
@@ -138,8 +138,8 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 ### MacOS Only
 
-- [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS). `Shell`
-- [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in vlang. `V`
+- [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for MacOS). `Shell`
+- [vfetch](https://github.com/carlosqsilva/vfetch) - System fetch written in Vlang. `V`
 
 ### Other
 
