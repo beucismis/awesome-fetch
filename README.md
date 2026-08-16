@@ -160,7 +160,6 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 
 - [ferris-fetch](https://github.com/irevenko/ferris-fetch) - A system information tool for Rustaceans. `Rust`
 - [phpfetch](https://github.com/efectn/phpfetch) - Simple PHP and system information tool. `PHP`
-- [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 
 ## Repository
 
