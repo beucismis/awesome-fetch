@@ -130,7 +130,6 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [smfetch](https://github.com/agahemir/smfetch) - A fetch tool written in bash with less than 150 lines of code. `Shell`
 - [so-sysinfo](https://github.com/solaaradotnet/so-sysinfo) - A Rust-made fetch-like program with a twist on presentation (and some personal branding). `Rust`
 - [stupidfetch](https://github.com/000rosiu/stupidfetch) - Like neofetch, but without colors, without distro logos and installer. `Shell`
-- [tinyfetch](https://github.com/beucismis/tinyfetch) - Python and system information command-line fetch tool. `Python`
 - [turbofetch](https://github.com/ajTronic/turbofetch) - A blazingly-fast, minimal fetch that uses Nerd Fonts. `C`
 - [ufetch](https://github.com/tyroruyk/ufetch) - System fetch tool written in Rust. `Rust`
 - [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems. `Shell`
