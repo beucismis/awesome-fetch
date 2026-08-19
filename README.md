@@ -49,7 +49,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [efetch](https://github.com/NoSequel/efetch) - Is a system information tool written in C++. `C`
 - [exfetch](http://codeberg.org/izder456/exfetch) - Shell extensible fetching program. `Crystal`
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C. `C`
-- [ferrisfetch](https://github.com/Kk376/ferrisfetch) - A fast, lightweight Linux and Android system information fetch CLI. `Rust`
+- [ferrisfetch](https://github.com/kk376/ferrisfetch) - A fast, lightweight Linux and Android system information fetch CLI written in Rust. `Rust`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
