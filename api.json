@@ -100,8 +100,8 @@
     },
     {
       "name": "ferrisfetch",
-      "source_url": "https://github.com/Kk376/ferrisfetch",
-      "description": "A fast, lightweight Linux and Android system information fetch CLI.",
+      "source_url": "https://github.com/kk376/ferrisfetch",
+      "description": "A fast, lightweight Linux and Android system information fetch CLI written in Rust.",
       "programing_language": "Rust"
     },
     {
