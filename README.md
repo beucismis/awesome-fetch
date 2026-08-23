@@ -36,6 +36,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [101fetch](https://github.com/salaaad2/101fetch) - Screenfetch but for 101 school. `Shell`
 - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C. `C`
 - [albafetch](https://github.com/alba4k/albafetch) - Faster neofetch alternative, written in C. Still improving :). `C`
+- [animfetch](https://github.com/Andrew-Velox/animfetch) - Animated system fetch that stays pinned above your shell while you work. `Rust`
 - [archey4](https://github.com/HorlogeSkynet/archey4) - Maintained fork of the original Archey (Linux) system tool. `Python`
 - [archimede](https://github.com/gennaro-tedesco/archimede) - Unobtrusive directory information fetcher. `Go`
 - [bfetch](https://github.com/NNBnh/bfetch) - Dynamic fetch displayer that SuperB. `Shell`
