@@ -443,7 +443,7 @@
     {
       "name": "dfetch",
       "source_url": "https://github.com/David17c/Dfetch",
-      "description": "A clean and practical system information tool.",
+      "description": "Lightweight command-line tool for displaying system information.",
       "programing_language": "Go"
     },
     {
