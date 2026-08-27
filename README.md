@@ -112,7 +112,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `Nim`
 - [CrabFetch](https://github.com/LivacoNew/CrabFetch) - An extremely fast, featureful and customizable command-line fetcher. `Rust`
 - [customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget. `C++`
-- [dfetch](https://github.com/David17c/Dfetch) - A clean and practical system information tool. `Go`
+- [dfetch](https://github.com/David17c/Dfetch) - Lightweight command-line tool for displaying system information. `Go`
 - [disfetch](https://github.com/q60/disfetch) - Yet another \*nix distro fetching program, but less complex. `Shell`
 - [Haxefetch](https://github.com/ACoolioDude/Haxefetch) - Haxefetch is fetch program inspired by neofetch, fastfetch, pfetch, nerdfetch, hyfetch and so on. `Haxe`
 - [gotcha](https://github.com/yehorovye/gotcha) - Pretty system fetch. `Go`
