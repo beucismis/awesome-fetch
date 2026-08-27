@@ -125,6 +125,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [pokefetch](https://github.com/Discomanfulanito/pokefetch) - This script fetches a random Pokémon sprite and displays it alongside system info using a fetcher (currently only works with fastfetch). `Shell`
 - [pridefetch](https://github.com/cartoon-raccoon/pridefetch) - Neofetch but gay. `Python`
 - [qfetch](https://git.sr.ht/~lost/qfetch) - C implementation of pfetch written to be quick. `C`
+- [ratfetch](https://github.com/tuna4ll/ratfetch) - A system fetch that does not stop at one frame. `Rust`
 - [richfetch](https://github.com/Rizen54/richfetch) - A richly customisable fetch util which provides a ton lot of information. `Python`
 - [sfetch](https://github.com/Frolleks/sfetch) - A simple system fetch CLI tool written in Shell. `Shell`
 - [slackfetch](https://github.com/r1w1s1/slackfetch) - Minimal system information utility for Slackware. `Shell`
