@@ -50,7 +50,6 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [efetch](https://github.com/NoSequel/efetch) - Is a system information tool written in C++. `C`
 - [exfetch](http://codeberg.org/izder456/exfetch) - Shell extensible fetching program. `Crystal`
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written in C. `C`
-- [ferrisfetch](https://github.com/kk376/ferrisfetch) - A fast, lightweight Linux and Android system information fetch CLI written in Rust. `Rust`
 - [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000) - Dilbert themed fetch tool written in Perl. `Perl`
 - [fetch.scm](https://github.com/KikyTokamuro/fetch.scm) - System information fetcher written in GNU Guile Scheme. `Guile`
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch. `Rust`
@@ -59,6 +58,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - Neofetch with LGBTQ+ pride flags. `Python`
 - [info.sh](https://github.com/bc1bb/info.sh) - Info.sh is a little script that works like screenfetch or neofetch, it show infos. `Shell`
 - [kiwifetch](https://github.com/Bitskiwi/kiwifetch) - A simple system info script like neofetch. `Shell`
+- [kkfetch](https://github.com/kk376/kkfetch) - A fast, lightweight cross-platform system information fetch CLI written in Rust. `Rust`
 - [mfetch](https://github.com/Nighty3098/mfetch) - A simple fetch tool for Linux written in Bash. `Bash`
 - [macchina](https://github.com/Macchina-CLI/macchina) - A system information fetcher, with an emphasis on performance and minimalism. `Rust`
 - [mfetch](https://github.com/rachelambda/mfetch) - Minimalist fetch. `Shell`

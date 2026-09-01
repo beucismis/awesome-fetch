@@ -105,12 +105,6 @@
       "programing_language": "C"
     },
     {
-      "name": "ferrisfetch",
-      "source_url": "https://github.com/kk376/ferrisfetch",
-      "description": "A fast, lightweight Linux and Android system information fetch CLI written in Rust.",
-      "programing_language": "Rust"
-    },
-    {
       "name": "fetch-master-6000",
       "source_url": "https://github.com/anhsirk0/fetch-master-6000",
       "description": "Dilbert themed fetch tool written in Perl.",
@@ -157,6 +151,12 @@
       "source_url": "https://github.com/Bitskiwi/kiwifetch",
       "description": "A simple system info script like neofetch.",
       "programing_language": "Shell"
+    },
+    {
+      "name": "kkfetch",
+      "source_url": "https://github.com/kk376/kkfetch",
+      "description": "A fast, lightweight cross-platform system information fetch CLI written in Rust.",
+      "programing_language": "Rust"
     },
     {
       "name": "mfetch",
