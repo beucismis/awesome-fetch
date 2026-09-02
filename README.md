@@ -83,6 +83,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [scrftch](https://github.com/wezm/scrftch) - Screenfetch in Rust. `Rust`
 - [sjfetch](https://github.com/855309/sjfetch) - A command-line tool to display colorful distro information. `C++`
 - [smilefetch](https://github.com/ashedapuppy/smilefetch) - A system info tool written in Rust inspired by neofetch. `Rust`
+- [SmartFetch](https://github.com/Yassine-Jemi01/SmartFetch) - A fast and lightweight system information fetch tool written in C. `C`
 - [strlx](https://github.com/stx3plus1/strlx) - A minimal and fast system resource viewer in C. `C`
 - [sxl](https://github.com/stx3plus1/sxl) - Minimal system information program. `C`
 - [sysfex](https://github.com/mehedirm6244/sysfex) - Another system information tool written in C++. `C++`
