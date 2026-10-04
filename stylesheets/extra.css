@@ -1,0 +1,13 @@
+/* Set custom page width for MkDocs Terminal theme */
+
+:root {
+    --page-width: 80em;
+}
+
+#mkdocs-terminal-content li {
+    padding-bottom: 0.5rem;
+}
+
+#mkdocs-terminal-content code {
+    color: #6fc276;
+}
