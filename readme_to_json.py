@@ -5,9 +5,6 @@ formatted with a specific Markdown syntax, and exports the extracted data into a
 It expects two command-line arguments:
 1. The path to the input README.md file.
 2. The path to the output api.json file.
-
-The expected Markdown format for each tool is:
-- [Tool Name](Source URL) - Description `Programming Language`
 """
 
 import json
@@ -28,7 +25,7 @@ class Tool:
 
 
 # Regex pattern to match tools in the README file
-# Example format: "- [Name](Source URL) - Description `Programing Language`"
+# Example format: "- [Tool Name](Source URL) - Description `Programing Language`"
 pattern = r"-\s\[(.*?)\]\((.*?)\)\s-\s(.*?)\s\`([^\`]+)\`"
 
 with open(README_FILE_PATH, encoding="utf-8") as readme_file:
