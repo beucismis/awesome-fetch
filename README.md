@@ -110,6 +110,7 @@ The `api.json` file updates automatically with each commit, allowing you to requ
 - [androfetch](https://github.com/laraib07/androfetch) - A pretty system information tool written in bash for termux on android. `Shell`
 - [archfetch](https://github.com/xxczaki/archfetch) - Simple CLI system information tool for Arch Linux. `Shell`
 - [bestfetch](https://gitlab.com/Maxb0tbeep/bestfetch) - A customizable, beautiful, and blazing fast system fetch, powered by Nim. `Nim`
+- [bytefetch](https://github.com/ColtNovak/bytefetch) - Smallest dependency-free fetch script, with ASCII art and 10 info fields. `Shell`
 - [Catnap](https://github.com/iinsertNameHere/catnap) - A playful, simple system-information concatenation tool. `Nim`
 - [CrabFetch](https://github.com/LivacoNew/CrabFetch) - An extremely fast, featureful and customizable command-line fetcher. `Rust`
 - [customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget. `C++`
