@@ -12,6 +12,10 @@ import re
 import sys
 from dataclasses import asdict, dataclass
 
+if len(sys.argv) != 3:
+    print(f"Usage: {sys.argv[0]} <input README.md> <output api.json>", file=sys.stderr)
+    sys.exit(2)
+
 README_FILE_PATH = sys.argv[1]
 DATA_FILE_PATH = sys.argv[2]
 
